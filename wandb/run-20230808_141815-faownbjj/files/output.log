@@ -1,0 +1,150 @@
+  0%|                                                                                                                                                                              | 0/4650 [00:00<?, ?it/s]/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/autograd/_functions.py:322: UserWarning: MatMul8bitLt: inputs will be cast from torch.float32 to float16 during quantization
+  warnings.warn(f"MatMul8bitLt: inputs will be cast from {A.dtype} to float16 during quantization")
+  0%|                                                                                                                                                                   | 1/4650 [01:03<82:16:24, 63.71s/it]Traceback (most recent call last):
+  File "/home/ubuntu/Eric/LLMs/LLMs-Low-Resourced/finetune.py", line 237, in <module>
+    fire.Fire(train)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/fire/core.py", line 475, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/fire/core.py", line 691, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+  File "/home/ubuntu/Eric/LLMs/LLMs-Low-Resourced/finetune.py", line 206, in train
+    trainer.train(resume_from_checkpoint=resume_from_checkpoint)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/trainer.py", line 1539, in train
+    return inner_training_loop(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/trainer.py", line 1809, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/trainer.py", line 2654, in training_step
+    loss = self.compute_loss(model, inputs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/trainer.py", line 2679, in compute_loss
+    outputs = model(**inputs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/peft/peft_model.py", line 922, in forward
+    return self.base_model(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 806, in forward
+    outputs = self.model(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 685, in forward
+    layer_outputs = torch.utils.checkpoint.checkpoint(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/utils/checkpoint.py", line 249, in checkpoint
+    return CheckpointFunction.apply(function, preserve, *args)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/autograd/function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/utils/checkpoint.py", line 107, in forward
+    outputs = run_function(*args)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 681, in custom_forward
+    return module(*inputs, output_attentions, None)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 421, in forward
+    hidden_states = self.mlp(hidden_states)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 216, in forward
+    down_proj = self.down_proj(self.act_fn(self.gate_proj(x)) * self.up_proj(x))
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/nn/modules.py", line 414, in forward
+    out = bnb.matmul(x, self.weight, bias=self.bias, state=self.state)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/autograd/_functions.py", line 563, in matmul
+    return MatMul8bitLt.apply(A, B, out, bias, state)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/autograd/function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/autograd/_functions.py", line 327, in forward
+    CA, CAt, SCA, SCAt, coo_tensorA = F.double_quant(A.to(torch.float16), threshold=state.threshold)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/functional.py", line 1998, in double_quant
+    row_stats, col_stats, nnz_row_ptr = get_colrow_absmax(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/functional.py", line 1886, in get_colrow_absmax
+    is_on_gpu([A, row_stats, col_stats, nnz_block_ptr])
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/functional.py", line 388, in is_on_gpu
+    gpu_ids.add(t.device.index)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/ubuntu/Eric/LLMs/LLMs-Low-Resourced/finetune.py", line 237, in <module>
+    fire.Fire(train)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/fire/core.py", line 475, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/fire/core.py", line 691, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+  File "/home/ubuntu/Eric/LLMs/LLMs-Low-Resourced/finetune.py", line 206, in train
+    trainer.train(resume_from_checkpoint=resume_from_checkpoint)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/trainer.py", line 1539, in train
+    return inner_training_loop(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/trainer.py", line 1809, in _inner_training_loop
+    tr_loss_step = self.training_step(model, inputs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/trainer.py", line 2654, in training_step
+    loss = self.compute_loss(model, inputs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/trainer.py", line 2679, in compute_loss
+    outputs = model(**inputs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/peft/peft_model.py", line 922, in forward
+    return self.base_model(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 806, in forward
+    outputs = self.model(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 685, in forward
+    layer_outputs = torch.utils.checkpoint.checkpoint(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/utils/checkpoint.py", line 249, in checkpoint
+    return CheckpointFunction.apply(function, preserve, *args)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/autograd/function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/utils/checkpoint.py", line 107, in forward
+    outputs = run_function(*args)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 681, in custom_forward
+    return module(*inputs, output_attentions, None)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 421, in forward
+    hidden_states = self.mlp(hidden_states)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/transformers/models/llama/modeling_llama.py", line 216, in forward
+    down_proj = self.down_proj(self.act_fn(self.gate_proj(x)) * self.up_proj(x))
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/accelerate/hooks.py", line 165, in new_forward
+    output = old_forward(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/nn/modules.py", line 414, in forward
+    out = bnb.matmul(x, self.weight, bias=self.bias, state=self.state)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/autograd/_functions.py", line 563, in matmul
+    return MatMul8bitLt.apply(A, B, out, bias, state)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/torch/autograd/function.py", line 506, in apply
+    return super().apply(*args, **kwargs)  # type: ignore[misc]
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/autograd/_functions.py", line 327, in forward
+    CA, CAt, SCA, SCAt, coo_tensorA = F.double_quant(A.to(torch.float16), threshold=state.threshold)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/functional.py", line 1998, in double_quant
+    row_stats, col_stats, nnz_row_ptr = get_colrow_absmax(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/functional.py", line 1886, in get_colrow_absmax
+    is_on_gpu([A, row_stats, col_stats, nnz_block_ptr])
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/bitsandbytes/functional.py", line 388, in is_on_gpu
+    gpu_ids.add(t.device.index)
+KeyboardInterrupt

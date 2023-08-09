@@ -30,7 +30,7 @@ def train(
     # training hyperparams
     batch_size: int = 128,
     micro_batch_size: int = 4,
-    num_epochs: int = 3,
+    num_epochs: int = 1,
     learning_rate: float = 3e-4,
     cutoff_len: int = 256,
     val_set_size: int = 2000,
@@ -71,7 +71,7 @@ def train(
     ), "Please specify a --base_model, e.g. --base_model='decapoda-research/llama-7b-hf'"
     gradient_accumulation_steps = batch_size // micro_batch_size
 
-    device_map = "auto"
+    device_map =  {'':0} #"auto"
     world_size = int(os.environ.get("WORLD_SIZE", 1))
     ddp = world_size != 1
     if ddp:
@@ -177,7 +177,7 @@ def train(
             warmup_steps=100,
             num_train_epochs=num_epochs,
             learning_rate=learning_rate,
-            fp16=True,
+            fp16=False,
             logging_steps=10,
             evaluation_strategy="steps" if val_set_size > 0 else "no",
             save_strategy="steps",
