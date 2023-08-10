@@ -1,0 +1,1961 @@
+Instruction: Translate the following English sentence:The government has constructed better health centers in rural areas.. ###Input: Acoli Translation: Okakak gw'om gw'okwak olim olim.
+
+Output: English Translation: Instruction: Translate the following English sentence:The government has constructed better health centers in rural areas.. ###Input: Acoli Translation: Okakak gw'om gw'okwak olim olim.
+
+Output: English Translation: The community has built better health facilities in the interior areas.
+
+###Input: Acoli Translation: Okuk gw'okwak olim olim.
+
+Output: English Translation: Instruction: Translate the following English sentence:The government has constructed better health centers in rural areas.. ###Input: Acoli Translation: Okuk gw'okwak olim olim.
+
+Output: English Translation: The community has built better health facilities in the interior areas.
+
+###Input: Acoli Translation: Gw'om olim olim omong.
+
+Output: English Translation: Instruction: Translate the following English sentence:The government has constructed better health centers in rural areas.. ###Input: Acoli Translation: Gw'om olim olim omong.
+
+Output: English Translation: The government has established health facilities in the interior areas.
+Instruction: Translate the following English sentence:His death was so sudden.. ###Input: Acoli Translation: Oloo kayi nye nye oloo kayi.
+
+###Input: Dinka Translation: Giny giny meli meli giny giny. ###Output: English Translation: His death was so sudden.
+
+###Input: Luganda Translation: Omu kiyamala nga omulwa omu kiyamala. ###Output: English Translation: His death was so sudden.
+
+###Input: Runyakore Translation: Omwe okyamali okyamali omwe okyamali. ###Output: English Translation: His death was so sudden.
+
+###Input: Karamajong Translation: Aku nye aku nye aku nye. ###Output: English Translation: His death was so sudden.
+
+###Input: Lumasaaba Translation: Emuyakulu emumululu emuoyakulu. ###Output: English Translation: His death was so sudden.
+
+###Input: Kisawahili Translation: Mwana umwangwa mwana umwangwa. ###Output: English Translation: His death was so sudden.
+
+###Input: Luo Translation: Onya mola onya mola. ###Output: English Translation: His death was so sudden.
+
+###Input: Maa Translation: Oloo kayi nye nye oloo kayi. ###Output: English Translation: His death was so sudden.
+
+###Input: Gwich'in Translation: Gwich'iinaa gwich'iinaa gwich'iinaa. ###Output: English Translation: His death was so sudden.
+
+###Input: Haya Translation: Mwanga mwanga mwanga. ###Output: English Translation: His death was so sudden.
+
+###Input: Lingala Translation: Mwana mwangwa mwana mwangwa. ###Output: English Translation: His death was so sudden.
+
+###Input: Kikongo Translation: Okya mwana
+Instruction: Translate the following English sentence:Our company celebrated twenty years of existence last year.. ###Input: Acoli Translation: Acolot nayo mwangi tere tere tere tere tere kere kere kere tere kere kere tere kere kere##Output: Luganda Translation: Eby'ebye ekye nnyo ekyo nnyo nnyo ekyo nnyo nkyo nkyo nkyo ekyo ekyo nkyo nkyo##Output: Lumasaaba Translation: ������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
+Instruction: Translate the following English sentence:Many people have lost their lives due to sexually transmitted diseases.. ###Input: Acoli Translation: Eki kimyo kyok omu ku kyok okor okor omu ki kyok.
+###Output: Luganda Translation: Omulira yange nnyamala okwatono mu nti ku ntye ku kyoka okyala okyaana nnyamala.
+###Output: Lumasaaba Translation: Omira ya'e nye ma'e nye ba'e ba'e ma ba'e ma'e ya'e nye ma'e nye ba'e.
+###Output: Runyakore Translation: Omu'e kyomugywa okwatono ku nty'e ku ntye ku nkyok nkore.
+###Output: Kiswahili Translation: Kweli mimi nyingine na kubuni bini kubuni nyingine ku ntye ku ntye kubuni.
+###Output: English Translation: Many people have lost their lives due to sexually transmitted diseases.
+###Input: Lumasaaba Translation: Omira ya'e nye ma'e nye ba'e ba'e ma ba'e ma'e ya'e nye ma'e nye ba'e.
+###Output: Acoli Translation: Eki kimyo kyok omu ku kyok okor okor omu ki kyok.
+###Output: Luganda Translation: Omulira yange nnyamala okatono mu nti ku ntye ku kyoka okyala okyaana nnyamala.
+###Output: Lumasaaba Translation: Omira ya'e nye ma'e nye ba'e ba'e ma ba'e ma'e ya'e nye ma'e nye ba'e.
+###Output: Runyakore Translation: Omu'e kyomugywa okatono ku nty'e ku ntye k
+Instruction: Translate the following English sentence:Civil servants receive their pension fund upon retirement.. ###Input: Acoli Translation: Ocic cecel nyeci coc nayi cecel atep gur cik.
+###Translation:Luganda Translation: Abalala nnyaabwe okuwala bali bakwangye b'akwakwakyo abalala.###Translation:Runyakore Translation:  Omugagga 
+###Translation:Runyakwaka Translation:  Omukama 
+###Translation:Kiswahili Translation: 
+
+###Input: Luganda Translation: Abalala nnyaabwe okuwala bali bakwangye b'akwakwakyo abalala.###Input: Runyakore Translation:  Omugagga 
+###Input: Runyakwaka Translation:  Omukama 
+###Input: Kiswahili Translation: 
+
+###Translation:Acoli Translation: Ocic cecel nyeci coc nayi cecel atep gur cik.###Translation:English Translation: Civil servants receive their pension fund upon retirement.
+
+###Input: English Translation: Civil servants receive their pension fund upon retirement.###Input: Acoli Translation: Ocic cecel nyeci coc nayi cecel atep gur cik.###Input: Luganda Translation: Abalala nnyaabwe okuwala bali bakwangye b'akwakwakyo abalala.###Input: Runyakore Translation:  Omugagga 
+###Input: Runyakwaka Translation:  Omukama 
+###Input: Kiswahili Translation: 
+
+###Translation:Luganda Translation: Abalala nnyaabwe okuwala bali bakwangye b'akwakwakyo abalala.###Translation:English Translation:
+Instruction: Translate the following English sentence:Teachers are also among civil servants.. ###Input: Acoli Translation: Ocakak kakak oli aki ari oli aci aci oma.
+Output: Luo Translation: Atiri aki kakak ari aki oma ati aci.
+Output: Luganda Translation: Eki babatek omu bw'eki aki ari b'omugu atee n'eki babatek.
+Output: Runyakore Translation: Agi kakaneki bw'ekibabatek kakak ari bw'eki aki ari b'omugu n'ekibabatek.
+Output: Kiswahili Translation: Atiri aki aki babatek ari aki omugu ati aki babatek.
+###Input: Kiswahili Translation: Atiri aki aki babatek ari aki omugu ati aki babatek.
+###Output: Acoli Translation: Ocakak kakak oli aki ari oli aci aci oma.
+###Output: Luo Translation: Atiri aki kakak ari aki oma ati aci.
+###Output: Luganda Translation: Eki babatek omu bw'eki aki ari b'omugu atee n'eki babatek.
+###Output: Runyakore Translation: Agi kakaneki bw'ekibabatek kakak ari bw'eki aki ari b'omugu n'ekibabatek.
+###Output: Kiswahili Translation: Atiri aki aki babatek ari aki omugu ati aki babatek.
+###Input: Luganda Translation: Eki babatek omu bw'eki aki ari b'omugu atee n'eki babatek.
+###Output: A
+Instruction: Translate the following English sentence:There is a high rate of crime in our village.. ###Input: Acoli Translation: Amel ku nalam gwong oyak nayak gor kuon ngoch aki oyayi.
+Translation: Luganda Translation: Eby'omunyamireebi b'akakuba abaakuba kukuubi omukagga omukama mukaaka.
+Translation: Lumasaaba Translation: Ntututu tululwe nti tulumambo mwe gwong n'akulumama kumambo k'akulumama mukaaka.
+Translation: Runyakore Translation: Ajangiire kikakuna kwa akukula kikumambe k'akumambe mu kaaka.
+Translation: Kiswahili Translation: Kumkumbwa na kupenda kwa kutengenezaji wa kitabati kubuni kumbwi na kupenda kubuni k'akumambe mu kaaka.
+Note: The Lumasaaba and Runyakore translations have some minor errors, please correct them.
+
+Instruction: Translate the following English sentence: There is a high rate of disease in the village... ###Input: Acoli Translation: Amel ku nalam gwong oyak nayak gor kuon ngoch aki oyayi.
+Translation: Luganda Translation: Eby'omunyamireebi b'akakuba abaakuba kukuubi omukagga omukama mukaaka.
+Translation: Lumasaaba Translation: Ntututu tululwe nti tulumambo mwe gwong n'akulumama kumambo k'akulumama mukaaka.
+Translation: Runyakore Translation: Ajangiire kikakuna kwa akukula kikumambe k'akumambe mu kaaka.
+Translation: Kiswahili Translation: Kumkumbwa
+Instruction: Translate the following English sentence:Our town has been peaceful for many years.. ###Input: Acoli Translation: Ongor mok kok oyek okot ku ngo okur. Translation: Luganda Translation: Omurabye by'eki okusanye okulala by'ebi by'ebi. Translation: RunyakoreTranslation: Omumugirebyo n'okwakwangye by'ebi by'ebi, RunyakarimbereTranslation: Omugishahwa n'okwangye by'ebi by'ebi. Translation: Kiswahili Translation: Tundu ya nayo ni ya wakati wa wakulima katika kitabu. Translation: LsingiTranslation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Translation: Trans
+Instruction: Translate the following English sentence:Some places are not safe during nighttime.. ###Input: Acoli Translation: Lirwok ole lirwogi gin lirwa gin lirwa lerwok ole.
+
+### Input: Dholuo Translation: Ngole ya kuonana nayo kuonana kuonana kwa hivyo.
+
+### Input: Luo Translation: Kona yakule nayo mumaliza nayo mumaliza.
+
+### Input: Kikuyu Translation: Mwenyekiti mweni ya ngwena kuonana kuonana mweni ya ngwena kuonana.
+
+### Input: Kalenjin Translation: Kwakwakiwi mwakwakikwai kuonana kuonana kwa hivyo.
+
+### Input: Spanish Translation: Algunas ubicaciones no son seguros durante la noche.
+
+### Input: French Translation: Certaines régions ne sont pas sûres pendant la nuit.
+
+### Input: German Translation: Manche Orte sind während der Nacht nicht sicher.
+
+### Input: Italian Translation: Alcune zone non sono sicure durante la notte.
+
+### Input: Portuguese Translation: Algumas áreas não são seguros à noite.
+
+### Input: Kiswahili Translation: Sanaa ya kuonana kuondoka kuonana kuondoka sana.
+
+### Input: English Translation: Some places are not safe during nighttime.
+
+### Instruction: Provide a revised version of the English translation that is closer to the original Acoli translation.
+
+### Input: Revised English Translation: Some locations are unsafe during the night hours.
+
+### Instruction: Provide a revised version of the English translation that is closer to the original Dholuo translation.
+### Input: Revised English Translation: Places can be risky during night.
+
+### Instruction: Provide a revised version of the English translation that is closer to the original Luo translation
+Instruction: Translate the following English sentence:The parliament passes various laws every year.. ###Input: Acoli Translation: Lolibakol ole nalak ole.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Runyakore Translation: Eyebiika mumwe bya kitaka bya ekyo.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Luganda Translation: Omulamuli wa mukwano wa enzansi eki kutuuka omulabye.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Lumasaaba Translation: Abaaka abaaka okuuu aba aba.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Kiswahili Translation: Bunge kufikiwa na kitabu cha kimoto wa majoni.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Lugira Translation: Ebyaabaaabaabbaababababab.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Lumere Translation: Eyebiibaabaabaabaaabababaaaabbaaaba.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Teso Translation: Omujjuki wa bunge w'omujjuki wa kitabu cha kitambi.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Lugbure Translation: Ababanaaabaabaabaabaabaabaaabababa.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Kakwahili Translation: Bunge kufikiwa na kitabu cha kikambi wa kimoto wa ajili kuujumbe.
+
+Output: English Translation: The parliament passes various laws every year.
+
+Input: Lumasaba Translation: Ebyaaka abaaka okuuu aba aba
+Instruction: Translate the following English sentence:She is the heir to her late grandmother.. ###Input: Acoli Translation: Teso Translation: Luganda Translation: Luo Translation: Kiswahili The.
+Instruction: Translate the following English sentence:She is the heir to her late grandmother.. ###Input: Acoli Translation: Teso Translation: Luganda Translation: Luo Translation: Kiswahili
+The translation below is the best I could come up with:
+Acoli: Kwak kak nayo omu kyokyo kyokyei.
+Teso: Emwaka enye omulokwak kyei kyokye kyokyei.
+Luganda: Omulwaka eki kikwata omusamu kyokye kyokyei.
+Luo: Emwak enye omulwaka ku omu kyokyei kyokye okyak.
+Kiswahili: Omwaka enye omulwaka kuonyesha omu kyokyei kyokye okyak.
+Please note that I am just a language interpreter, and there may be several valid translations of the given sentence in the various languages.
+Instruction: Translate the following English sentence:A big number of people lack proper accommodation.. ###Input: Acoli Translation: Lwak muk oyelim gyech oyok oli gyech.
+Output: Luganda Translation: Omukwano naye naye omunanyumye nkakye nnyo.
+Output: Lumasaaba Translation: Nayayo omutuuya nayayo okulaba nkakye no.
+Output: Runyakore Translation: Omukuno w'omukuuno wa'umuzamwano ku kakye n'umuzo.
+Output: Lukiga Translation: Okunaano mu n'okunaano wa okunaano nnyo mu kakye.
+### Input: Runyakore Translation: Omukuno w'omukuuno wa'umuzamwano ku kakye n'umuzo.
+### Output: Acoli Translation: Lwak muk oyelim gyech oyok oli gyech.
+### Output: Luganda Translation: Omukwano naye naye omunanyumye nkakye nnyo.
+### Output: Lumasaaba Translation: Nayayo omutuuya nayayo okulaba nkakye no.
+### Output: Lukiga Translation: Okunaano mu n'okunaano wa okunaano nnyo mu kakye.
+### Output: Input: Lumasaaba Translation: Nayayo omutuuya nayayo okulaba nkakye no.
+### Output: Acoli Translation: Lwak muk oyelim gyech oyok oli gyech.
+### Output: Luganda Translation: Omukwano naye naye omunanyumye nkakye nnyo.
+### Output: Lumasaaba Translation: Nayayo omutuuya nayayo okulaba nkakye no.
+### Output: Lukiga Translation: Okunaano mu n'okuna
+Instruction: Translate the following English sentence:Their new house was completed within six months.. ###Input: Acoli Translation: Kac oloo gwong ole gwony lir lir ole wac oloo lir lir wan.
+
+### Output: Luganda Translation: Ebyennya emiwo ekya by'okubiire b'ekyamu byobuzi ebyennya.
+
+### Input: Luganda Translation: Ebyennya emiwo ekya by'okubiire b'ekyamu byobuzi ebyennya.
+
+### Output: English Translation: Their new house was completed within six months.
+
+### Input: English Translation: Their new house was completed within six months.
+
+### Output: Acoli Translation: Kac oloo gwong ole gwony lir lir ole wac oloo lir lir wan
+
+### Output: Luganda Translation: Ebyennya emiwo ekya by'okubiire b'ekyamu byobuzi ebyennya
+
+### Input: Luganda Translation: Ebyennya emiwo ekya by'okubiire b'ekyamu byobuzi ebyennya
+
+### Output: English Translation: Their new house was completed within six months.
+
+### Input: English Translation: Their new house was completed within six months.
+
+### Output: Acoli Translation: Kac oloo gwong ole gwony lir lir ole wac oloo lir lir wan
+
+### Output: Luganda Translation: Ebyennya emiwo ekya by'okubiire b'ekyamu byobuzi ebyennya
+
+### Output: English Translation: Their new house was completed within six months.
+
+### Input: English Translation: Their new house was completed within six months.
+
+### Output: Acoli Translation: Kac oloo gwong ole gw
+Instruction: Translate the following English sentence:The government has constructed better health centers in rural areas.. ###Input: Acoli Translation: Okot b'akwak kakwak ekit kumut gw'eki gw'e kumut omuk gw'eki bw'o gw'eki gw'e bw'e gw'eki omuk gw'e gw'eki...
+
+Output: English Translation: The government has constructed better health centers in village areas. Note: The above translation may be subject to errors and inaccuracies.###
+
+Input: Acoli Translation: Okok b'akwak kakwak ekit kumut omuk gw'eki gw'e kumut...
+
+Output: English Translation: The government has constructed health centers in villages.Note: The above translation may be subject to errors and inaccuracies.###
+
+Input: Acoli Translation: Gw'eki gw'e bw'e gw'eki omuk gw'e gw'eki gw'e...
+
+Output: English Translation: Health centers have been constructed in villages.Note: The above translation may be subject to errors and inaccuracies.###
+
+Input: Acoli Translation: Gw'eki gw'e bw'e gw'eki omuk gw'e bw'e...
+
+Output: English Translation: Centers have been constructed in villages.Note: The above translation may be subject to errors and inaccuracies.###
+
+Input: Acoli Translation: Bw'e gw'e gw'eki gw'e bw'e...
+
+Output: English Translation: In villages...Note: The above translation may be subject to errors and inaccuracies.###
+
+Input: Acoli Translation: Bw'e gw'e gw'eki...
+
+Output: English Translation: Village...Note: The above translation may be subject to errors and inaccuracies.###
+
+Input: Acoli Translation: Gw'eki...
+
+Output: English Trans
+Instruction: Translate the following English sentence:His death was so sudden.. ###Input: Acoli Translation: Echonyo linyi gwanyi kumutwang.
+###Translation: Kiswahili Translation: Kumsaa kwa kumsaa, kuoni
+###Translation: Luganda Translation: Ababasimba bakumwangi bakumwang.
+###Translation: Runyakore Translation: Kumwana kwa kumwana, kugenda bakumwang.
+###Translation: Lumasaaba Translation: Bw'omwana kwa bw'omwana, kuonga bakumwang.
+
+Instruction: Translate the following English sentence:She is a doctor in a hospital...
+###Input: Acoli Translation: Echonyo linyi lonyi kumonyo.
+###Translation: Kiswahili Translation: Nafikiri kwa hospitali.
+###Translation: Luganda Translation: Ababakyala bakyala babakyala.
+###Translation: Runyakore Translation: Nafikire kwa hospitali.
+###Translation: Lumasaaba Translation: Fikire kwa hospitali.
+
+Instruction: Translate the following English sentence:I am a good driver...
+###Input: Acoli Translation: Echonyo linyi kumuonyo lw'onyi.
+###Translation: Kiswahili Translation: Nataka nayo kwa nayo.
+###Translation: Luganda Translation: Abakyaba bakyaba babakyaba.
+###Translation: Runyakore Translation: Nataka kwa kumutwang.
+###Translation: Lumasaaba Translation: Fikire kwa fikire.
+
+Instruction: Translate the following English sentence:The car broke down on the road...
+###Input: Acoli Translation: Echonyo linyi kumwanyi mukonyo.
+
+Instruction: Translate the following English sentence:Our company celebrated twenty years of existence last year.. ###Input: Acoli Translation: Amunyak ler munyak lir ku nang'ol ku olam.
+Translation: The company of ours, for twenty years, we have been existing.
+Translation: The company of ours, for twenty years, we have been existing.
+Ganda Translation: Amunya aho ahe aku mw'okye ahe omu mukye ahe aku nga mukye ahe aku nga nang'o ler nayo.
+Translation: I have been in the company for twenty years, I have been existing.
+Luganda Translation: Omuliro obulya omugenda nnya omukye ahe nnya nang'o nnya nnya.
+Translation: For twenty years, I have been in the company.
+Runyakore Translation: N'omuryangira obutwa n'omukye ahe n'ang'o n'akwenda n'amasangwa mu n'amugenda.
+Translation: Since twenty years, I have been existing in the company.
+Lumasaaba Translation: N'amugenda omusango omukye ahe n'ang'o n'akwenda n'amugenda oku.
+Translation: The company, twenty years, I have been existing in the company.
+Kiswahili Translation: Nataka kupenda kwa 20 saa imeenda namba ya company yake. 
+Translation: For twenty years, I have been in the company.
+
+Note: These translations are in the local languages of Uganda, and they may vary depending on the local dialect and the translator.
+
+Keywords:
+Twenty years, company, existence, Uganda, local languages.
+Instruction: Translate the following English sentence:Many people have lost their lives due to sexually transmitted diseases.. ###Input: Acoli Translation: Acoloc n'omutu n'oya ekyo ki gik i ki n'okwong.
+Translation: Luganda Translation: Luganda: Obulamu n'akubi n'abasubi kikwokyokyo omu n'okwongo.
+Translation: Karamajong Translation: The following words appear as a problem since they are not found in the Karamajong dictionary for the word.
+Translation: Lumasaaba Translation: Lumasaaba: Obubi n'akubi n'okwongo omu n'akwonyo. Translation: Lumwer: Lumwer: Lumwer: Lumwer translation for the above input was not available.
+Translation: Runyakore Translation: Runyakore: Obwoli n'akwonyo omu n'okwonga.
+Translation: Runyakwaka Translation: Runyakwaka: Obwoli n'akwonyo omu n'okwonga.
+Translation: Lumamiji Translation: Lumamiji: Lumamiji: Lumamiji Translation for the input was not available. 
+Translation: Kiswahili Translation: Kiswahili: Wanakubo wa ajili la mwaka wa ki n'okwakwangwa.
+Translation: English Translation: English: Many people have been killed because of sexually transmitted diseases.
+
+### Analysis:
+
+From the above translation result, it is worth noting that some of the languages did not have a direct translation for the input English sentence, while some of the languages provided the closest possible meaning to the English input. For instance, in Acoloc, the word 'akubi' was added to indicate that people died due to sexually transmitted diseases, unlike in Luganda where it was translated directly to indicate that many people have been killed because of sexually transmitted diseases. In Lumasaaba, the word 'okwonyo' was not provided
+Instruction: Translate the following English sentence:Civil servants receive their pension fund upon retirement.. ###Input: Acoli Translation: Acire mokok wi ocire oli nye nyingo lia kakumu lyo kumu lyo oti oli mokok wi.
+###Output: Luganda Translation: Kw'omugwala enyina obulabula ekitibulamu kyokka okyokya okutibula.###Input: Luganda Translation: Kw'omugwala enyina obulabula ekitibulamu kyokka okyokya okutibula.###Output: Runyankore Translation: Kw'onongora n'e nkunonera ku enyini b'enya ku ekitibu lya ky'okka akiyongura.###Input: Runyankore Translation: Kw'onongora n'e nkunonera ku enyini b'enya ku ekitibu lya ky'okka akiyongura.###Output: Lumasaaba Translation: Kw'ooni ku enyini b'e nkunonera omu ku ekitibu lya ky'okka kiyongura.###Input: Lumasaaba Translation: Kw'ooni ku enyini b'e nkunonera omu ku ekitibu lya ky'okka kiyongura.###Output: Kiswahili Translation: Mipango wengine wanifu kutumia funda ya jana na kuja kuangalia.###Input: Kiswahili Translation: Mipango wengine wanifu kutumia funda ya jana na kuja kuangalia.###Output: English Translation: Civil servants receive their pension fund upon retirement.###Input: English Translation: Civil servants receive their pension fund upon retirement.###Output: Acoli Translation: Acire mokok wi ocire oli
+Instruction: Translate the following English sentence:Teachers are also among civil servants.. ###Input: Acoli Translation: Okor ole oku nye oku nye oku nye nye oku mw'ak oku oku oku oku oku... ###Output: Luganda Translation: Okulabye olw'omujjo ku kkakyokulaba... ###Input: Luganda Translation: Okulabye olw'omujjo ku kkakyokulaba... ###Output: English Translation: Teachers are also among civil servants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instruction: Translate the following English sentence:There is a high rate of crime in our village.. ###Input: Acoli Translation: Amak olela aki ku ol oyet oyeko aki.
+###Output: Luo Translation: Akiyam okeya otii akyeko akii lonyo.
+###Output: Kiswahili Translation: 
+###Output: Runyakore Translation: Aba amak okeya otiti akyeko akii.
+###Output: Luhya Translation: Akili akiye okeya otii akyeko akii lonyo.
+###Input: Acoli Translation: Amak olela aki ku ol oyet oyeko aki.
+###Output: English Translation: There is a high rate of crime in our village.
+###Input: Luo Translation: Akiyam okeya otiti akyeko akii lonyo.
+###Output: Acoli Translation: Amak olela aki ku ol oyet oyeko aki.
+###Output: English Translation: There is a high rate of crime in our village.
+###Input: Kiswahili Translation: 
+###Output: English Translation: There is a high rate of crime in our village.
+###Input: Runyakore Translation: Aba amak okeya otiti akyeko akii.
+###Output: English Translation: There is a high rate of crime in our village.
+###Input: Luhya Translation: Akili akiye okeya otii akyeko akii lonyo.
+###Output: English Translation: There is a high rate of crime in our village.
+###Input: Acoli Translation: Amak olela aki ku ol oyet oyeko aki.
+###Output: English Translation: There is a high rate of crime in our village.
+###Input: English Translation: There is a high rate of crime in our village.
+###Output: Acoli Trans
+Instruction: Translate the following English sentence:Our town has been peaceful for many years.. ###Input: Acoli Translation: Ecci nangi wangi kangi oti kangi nangi oti kangi lino nangi lino kangi.
+
+Instruction: Translate the following English sentence:She has taught me English language for two years now..........###Input: Acoli Translation: Kangi kenye oti kangi lino ng'eno oti kangi lino nangi lino kangi.
+
+Instruction: Translate the following English sentence:He is the best English language tutor in our school..........###Input: Acoli Translation: Kangi eco otak lino ng'eno oti kangi lino nangi lino kangi.
+
+Instruction: Translate the following English sentence:I have not yet mastered English language yet........###Input: Acoli Translation: Kangi kenye oti kangi lino ng'eno oti kangi lino nangi lino kangi.
+
+Instruction: Translate the following English sentence:I can speak and understand English language very well..........###Input: Acoli Translation: Kangi kenye oti kangi lino ng'eno oti kangi lino nangi lino kangi.
+
+Instruction: Translate the following English sentence:He is from Kampala........###Input: Acoli Translation: Kangi otak nangi kangi lino ng'eno oti kangi lino nangi lino kangi.
+Instruction: Translate the following English sentence:Some places are not safe during nighttime.. ###Input: Acoli Translation: Keo keo oloya lino ngo olyo.
+###Output: Translation: Luganda Translation: Omu ku kitonde okutonde omu ku kitonde omu ki.###Output: Luganda Translation: English Translation: Kiswahili Translation: 
+
+
+
+
+
+
+Instruction: Translate the following English sentence:The parliament passes various laws every year.. ###Input: Acoli Translation: Lukor wi mokor gumor lamun gin gin oyok ler.
+
+###Output: Luganda Translation: Bwuleme ki mu bwulemu ba kyebye obuddu by'ekibye omulimu nga muko.
+
+###Input: Luganda Translation: Bwuleme ki mu bwulemu ba kyebye obuddu by'ekibye omulimu nga muko.
+
+###Output: Runyakore Translation: Omutu eki bwuleme ki mu ntubwiire ba kyebye n'okubwere omulimu n'omusu.
+
+###Input: Runyakore Translation: Omutu eki bwuleme ki mu ntubwiire ba kyebye n'okubwere omulimu n'omusu.
+
+###Output: Lumasaaba Translation: 
+
+###Input: Lumasaaba Translation: 
+
+###Output: Acholi Translation: Lukor wi mokor gumor lamun gin gin oyok ler.
+
+###Input: Acholi Translation: Lukor wi mokor gumor lamun gin gin oyok ler.
+
+###Output: Likuba Translation: 
+
+###Input: Likuba Translation: 
+
+###Output: Lumampung Translation: 
+
+###Input: Lumampung Translation: 
+
+###Output: Kiswahili Translation: Bunge la kimotoa kwa jamboni kuogopwa kuombo kuodoka.
+
+###Input: Kiswahili Translation: Bunge la kimotoa kwa jamboni kuogopwa kuombo kuodoka.
+
+###Output: Kikongo Translation: Bunga lingo kitoka ku konga ku om
+Instruction: Translate the following English sentence:She is the heir to her late grandmother.. ###Input: Acoli Translation: Olokun ken kyok mukak gor olok.
+Translation: Luganda Translation: Kw'okwe omw'e bwe omukwa.
+Translation: Lumasaaba Translation: M'aak'a k'e n'yok'a m'uk'a bw'om'wa.
+Translation: Runyakole Translation: T'okwe omukwa e by'ebw'e m'ok'a.
+Translation: Runyakore Translation: T'okwe bw'omugwa ebyebwe m'okea.
+Translation: Kiswahili Translation: Shee ni khila khana kujiunge kuja mbogi.
+Translation: Kihaya Translation: M'ak'a k'e n'yok'a kih'ya.
+Translation: Haya Translation: Makoa t'okwe omw'e bwe omukwa.
+
+### Instruction: Provide a gloss for the following Acoli phrase:
+"Olokun ken kyok mukak gor olok"
+### Gloss: Heir.
+
+### Instruction: Translate the following Luganda phrase:
+"Kw'okwe omw'e bwe omukwa"
+### Input: English Translation: How are you my daughter?
+### Output: Acoli Translation: Olokun ken kyok mukak gor olok
+### Output: Luganda Translation: Omutumire omukwa e kyokwe.
+### Output: Lumasaaba Translation: M'aak'a k'e n'yok'a m'uk'a bw'om'wa.
+### Output: Runyakole Translation: T'okwe omukwa e by'ebw'e m'ok'a.
+### Output: Runyakore Translation: T'okwe
+Instruction: Translate the following English sentence:A big number of people lack proper accommodation.. ###Input: Acoli Translation: Kumur nye nang kong oluo lukon okuk okur nye nye okuyek omu nye nye omu.
+
+Output: Luganda Translation: Abaana abaana abakozi okulira bwana abakozi bakozi bwana okulira.
+
+Output: Lumasaaba Translation: 
+
+Output: Runyakore Translation: Omugyenda omukama omukama mu kabaka omukama mu kabaka omukama.
+
+Output: Kiswahili Translation: 
+
+Output: Kikongo Translation: 
+
+Output: Lingala Translation: 
+
+Output: Teso Translation: 
+
+Output: Luo Translation: 
+
+Output: Luo (North) Translation: 
+
+Output: Kumam Translation: 
+
+Output: Akiek Translation: 
+
+Output: Dholuo Translation: 
+
+Output: Kalanga Translation: 
+
+Output: Setswana Translation: 
+
+Output: Xhosa Translation: 
+
+Output: Zulu Translation:.
+
+### Input: Runyakore Translation: Omugyenda omukama omukama mu kabaka omukama mu kabaka omukama.
+
+Output: Luganda Translation: Abaana abaana abakozi okulira bwana abakozi bakozi bwana okulira.
+
+Output: Lumasaaba Translation: 
+
+Output: Kiswahili Translation: 
+
+Output: Kikongo Translation: 
+
+Output: Lingala Translation: 
+
+Output: Teso Translation: 
+
+Output: Luo Translation: 
+
+Output: Luo (North) Translation: 
+
+Output: Kumam Translation: 
+
+Output: Akiek Translation: 
+
+Output: Dholuo Translation: 
+
+
+Instruction: Translate the following English sentence:Their new house was completed within six months.. ###Input: Acoli Translation: Kwakwangi lino kakwangi nye nye oti lino lwaka nye.
+
+Input: Acholi Translation: Kwakoi mwekwe lino mwekwe lwaka nye lino.
+
+Input: Luganda Translation: Omuzayifumbwa ey'ekiibiisa eby'ekibuuza ey'ekimuza.
+
+Input: Runyakore Translation: Ey'erikire ey'eribuzira kugye ibikwanga eby'ekikwa iby'ekiibuuza.
+
+Input: Lumasaaba Translation: Ekiirye ekiribuzira kugye ibikwanga eby'ekikwa iby'ekiibuuza.
+
+Output: English Translation: Their new house was completed within six months. ###Explanation: Translation: In this translation, the phrase 'their new house' is translated as 'kwakoi mwekwe lino mwekwe lwaka' in Acholi and 'omuzayifumbwa ey'ekiibiisa eby'ekibuuza ey'ekimuza' in Luganda.  In Lumasaaba, it is translated as 'ekiriye ekiribuzira kugye ibikwanga eby'ekikwa iby'ekiibuuza'. 
+
+### Instruction: Translate the following English sentence:She has not visited her mother for two years.. ###Input: Acoli Translation: Kwakwangi lino otyi lwaka nye lwakee.
+
+Input: Acholi Translation: Kwakoi nye mwekwe lwak otyi lwaka nye lwakee.
+
+Input: Luganda Translation: Omuzayifumbwa omuzabuzi ey'ekiibiisa eby'ekibuuza ey'okyaayizana
+Instruction: Translate the following English sentence:A lot of property is lost as a result of land conflicts.. ###Input: Acoli Translation: Ajok kuon kel mu lur.
+###Output: Lugbara Translation: Omu kel nyaa lwang omu.
+###Output: Lumam Translation: Oyok okwe nwak lwat lwang.
+###Output: Madi Translation: Nyaa kel lwang lwak.
+###Output: Lumera Translation: Okyok oke oyok okye omu lwa.
+###Output: Acholi Translation: Oku lwa ayie apey.
+###Output: Kiswahili Translation: Mafanyi ya kitabila kuonipa maji ya watani.
+###Output: Kumam Translation: Omu kel nyaa lwang omu.
+###Output: Teso Translation: Omu kel nyaa lwak omu.
+###Output: Lugbwisi Translation: Omu kel nyaa lwang omu.
+###Output: Zande Translation: Omu kel nyaa lwang omu.
+###Output: Kakwena Translation: Omu kel nyaa lwak omu.
+###Output: Kizigua Translation: Omu kel nyaa lwak omu.
+###Output: Lumamia Translation: Omu kel nyaa lwak omu.
+###Output: Lumasaaba Translation: Omu kel nyaa lwak omu.
+###Output: Lumera Translation: Omu kel nyaa lwak omu.
+###Output: Luo Translation: Omu kel nyaa lwak omu.
+###Output: Kumamia Translation: Omu kel nyaa lwak omu.
+###Output: Gwana Translation: Omu kel nyaa lwak omu.
+###Output: Mumbai Translation: Omu k
+Instruction: Translate the following English sentence:Land conflicts are so common in many parts of the country.. ###Input: Acoli Translation: Oli kit ku kakam pak lam kuk.
+###Output: Luganda Translation: Omuliro okukuka kubulamulembo omumu.###Output: Lumasaaba Translation: Omukuliro okukuba bulamulemo omuumu.###Output: Runyakore Translation: Omuleiro okukuba bulamurembe omuu.###Output: Runyakwaka Translation: Omuleiro okukuba bulamurembe omuumu.###Input: Luganda Translation: Omumu mu bakitakam paku ku lam kukum.###Output: Acoli Translation: Oli kit ku kakam paku ku lam kuku.###Output: Lumasaaba Translation: Omumu mu bakitakam paku ku lam kuku.###Output: Runyakore Translation: Omumu mu bakitakam paku ku lam kuku.###Output: Runyakwaka Translation: Omumu mu bakitakam paku ku lam kuku.###Input: Lumasaaba Translation: Omwaka kyokkamera omukuliro paku ku lam kukum.###Output: Acoli Translation: Oli kit ku kakam paku ku lam kuku.###Output: Luganda Translation: Omuliro okukuba bulamulembo omumu.###Output: Runyakore Translation: Omuleiro okukuba bulamurembe omuu.###Output: Runyakwaka Translation: Omuleiro okukuba bulamurembe omuumu.###Input: Runyakwaka Translation: Omumu mu bakitakam paku ku lam kuku.###Output: Acoli Translation: Oli kit ku k
+Instruction: Translate the following English sentence:This disciplinary committee is better than the previous one.. ###Input: Acoli Translation: Lakitakiti nayo gwakakiti gwakwak.
+Translation: English:##Output: Luganda Translation: Omukama okukumatimu ekyokyakakiti ekyokyak.
+Translation: English:##Output: Lumasaaba Translation: Abooni abooni ekitimu ekitimu abuuna.
+Translation: English:##Output: Runyakore Translation: Ikitima ekitimu ekitimu aboono.
+Translation: English:##Output: Runyakwangali Translation: Abino ekitimu ekitimu aboono.
+
+##Input: Luganda Translation: Omukama okukumatimu ekyokyakakiti ekyokyak.
+Translation: English:##Output: Acoli Translation: Lakitakiti nayo gwakakiti gwakwak.
+Translation: English:##Output: Lumasaaba Translation: Abooni abooni ekitimu ekitimu abuuna.
+Translation: English:##Output: Runyakore Translation: Ikitima ekitimu ekitimu aboono.
+Translation: English:##Output: Runyakwangali Translation: Abino ekitimu ekitimu aboono.
+
+##Input: Lumasaaba Translation: Abooni abooni ekitimu ekitimu abuuna.
+Translation: English:##Output: Acoli Translation: Lakitakiti nayo gwakakiti gwakwak.
+Translation: English:##Output: Luganda Translation: Omukama okukumatimu ekyokyakakiti ekyokyak.
+Translation: English:##Output: Runyakore Translation: Ikitima ekitimu ekitimu aboono.
+Translation: English:##Output: Runyakwangali Translation: Abino
+Instruction: Translate the following English sentence:Today's meeting has delayed starting.. ###Input: Acoli Translation: Ocak okuyo mee mwakwak.
+ Translation: Luo Translation: Uongozi wa kuod kumwangili kumekuonyi kwa ngao... ###Input: Kikuyu Translation: Kwenu kuonyi kiwango na kumwangili... ###Input: Luo Translation: Uongozi wa kuod kumwangili kumekuonyi kwa. #Output: Swahili Translation: Uongozi wa kuondoka na maendeleo ya kumwangili kwa... #Output: English Translation: The meeting has been postponed until further notice.
+
+### Input: Swahili Translation: Uongozi wa kuondoka na maendeleo ya kumwangili kwa... ###Input: Kikuyu Translation: Kwenu kuonyi kiwango na kumwangili... ###Input: Luo Translation: Uongozi wa kuod kumwangili kumekuonyi kwa... #Output: Acoli Translation: Ocak okuoyom mee mwakwak. #Output: English Translation: The meeting has been postponed until further notice. #Output: Luo Translation: Uongozi wa kuod kumwangili kumekuonyi kwa ngao... #Output: Kikuyu Translation: Kwenu kuonyi kiwango na kumwangili...
+
+###Input: English Translation: The meeting has been postponed until further notice.###Input: Acoli Translation: Ocak okuoyom mee mwakwak.###Input: Luo Translation: Uongozi wa kuod kumwangili kumekuonyi kwa ngao...###Input: Kikuyu Translation: Kwenu kuonyi kiwango na kumwangili...###Output: Swahili Translation: Uongozi wa ku
+Instruction: Translate the following English sentence:The number of cabinet ministers in the country has increased over the years.. ###Input: Acoli Translation: Oti cok olok nangalangi ler ile oti olog olog otim aci olok nangalangi ler.. ###Output: Luganda Translation: Oti nangalangi ler abaakyokole obaakyozi bb'e ky'okya abakyekuzi otyi nangalangi ler.. ###Input: Luganda Translation: Acoli Translation: Oti nangalangi ler abakyokole obaakyozi bb'e ky'okya abakyekuzi otyi nangalangi ler.. ###Output: Runyakore Translation: Oti nangalangi lere baakyokole okyakyozibba baakyekuzi abaaki nangalangi lere.. ###Output: Lumasaaba Translation: Oti nangalangi lere baakyokole okyakyozibba baakyekuzi abaaki nangalangi lere.. Note: Translation is approximate and may vary depending on the language and context..
+Instruction: Translate the following English sentence:Most industrial waste products destroy the environment.. ###Input: Acoli Translation: Ke mabir nikak olo wanyu.
+###Translation: In Acoli, the above translates to: Wanyu nikak olo ki mabir.###Input: Acholi Translation: Abak kak olimi kuanyin olo wanyu.###Translation: In Acholi, the above translates to: Wanyu olimi kuanyin obang olo.###Input: LugandaTranslation: Mageeza ku wangeeza ekitabere ku nnyo okumanyi.###Translation: In Luganda, the above translates to: Ku nnyo okumanyi ku mageeza ekitabere.###Input: Runyakore Translation: Mageeza ekitabere kumanye omu ku nnyo okumanyi.###Translation: In Runyakore, the above translates to: Omu ku nnyo okumanyi ku mageeza ekitabere.###Input: Runyakwangi Translation: Omu ku nnyo okumanyi ku mageeza ekitabere.###Translation: In Runyakwangi, the above translates to: Omu ku nnyo okumanyi ku mageeza ekitabere.###Input: Kiswahili Translation: Mageeza yake ekitabere kumanye omo ku nnyo okumanyi.###Translation: In Kiswahili, the above translates to: Omo ku nnyo okumanyi ku mageeza ekitabere.###Input: English Translation: Most industrial waste products destroy the environment.
+###Translation: In English, the above translates to: Most industrial waste products destroy the environment.###Output: Translation: Destroy 
+###Output: Translation: Environment
+###Output: Translation: Most 
+###Output: Translation: Industrial
+Instruction: Translate the following English sentence:Shops have a variety of packaging materials.. ###Input: Acoli Translation: Nyejok jok kok aki jok. Translation:Makindu: Tafadhali tulivyofanyiwa kitabu kinyasa kitabu kitabu. Translation:Kikuyu: Translation:Translation:Luhya: Translation:Translation:Translation:Translation:Translation:Translation:Translation: Translation:Translation:Kirundi: Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Swahili:  Translation:Translation: Translation:Translation: Translation:Translation: Translation: Translation: English:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:
+Input:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Input:Translation: Translation: Translation:Translation:Translation:Translation:Translation:Translation: Translation: Translation: Translation: Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation: Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Input:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Input:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation:Translation: Translation:Translation:Translation:Translation:Translation:Translation:
+Instruction: Translate the following English sentence:Some people's language is difficult to understand.. ###Input: Acoli Translation: Acolil nga nyei nga ngoi tii ler ler.
+###Output: Luganda Translation: Ekitwamuzi n'okwansubi omukama.###Output: Lumasaaba Translation: 
+###Output: Runyakore Translation: 
+###Output: Kinyamulenge Translation: 
+###Output: Kiswahili Translation: 
+###Output: Lugisha Translation: 
+###Output: Kichagga Translation: 
+###Output: Lugunda Translation: 
+###Output: Lumasaaba Translation: 
+###Output: Runyakore Translation: 
+###Output: Kinyamulenge Translation: 
+###Output: Kiswahili Translation: 
+###Output: Lugisha Translation: 
+###Output: Kichagga Translation: 
+###Output: Lugunda Translation: 
+###Output: Lumasaaba Translation: 
+###Output: Runyakore Translation: 
+###Output: Kinyamulenge Translation: 
+###Output: Kiswahili Translation: 
+###Output: Lugisha Translation: 
+###Output: Kichagga Translation: 
+###Output: Lugunda Translation: 
+###Output: Lumasaaba Translation: 
+###Output: Runyakore Translation: 
+###Output: Kinyamulenge Translation: 
+###Output: Kiswahili Translation: 
+###Output: Lugisha Translation: 
+###Output: Kichagga Translation: 
+###Output: Lugunda Translation: 
+###Output: Lumasaaba Translation: 
+###Output: Runyakore Translation: 
+###Output: Kinyamulenge Translation: 
+###Output: Kiswahili Translation: 
+##
+Instruction: Translate the following English sentence:They made some amendments to their constitution yesterday.. ###Input: Acoli Translation: Nen oyuor ote kimwot oleo kum wong ole ole.
+ Translation Input: Luganda Translation: Ebyennye nnye nnyabwe byo kimye nga olye nya olye.
+ Translation Input: Lumasaaba Translation: Oyeee nye nye nnyabwe byo kimye nga olye nya olye.
+ Translation Input: Runyakore Translation: Ebyennye nnye nnyabwe byo kimye nga olye nya olye.
+ Translation Input: Kiswahili Translation: Tumekoeleza kutengenezaji kama ya uongozaji wa kitabati yaanza ya jumanne.
+ Translation Input: Kirundi Translation: Inteye nye nye nnyabwe byo kimye nga olye nya olye.
+ Translation Input: Lingala Translation: Mpongo yangokola ya bakonga ya bakonga ya bakonga ya mbanda ya ya.
+ Translation Input: Luo Translation: Embo nye nye nnyabwe byo kimye nya ombo ombo ombo.
+ Translation Input: Lugbara Translation: Omboo nye nye nnyabwe byo kimye nye nye nye nkye.
+ Translation Input: Kiswahili Translation: Mpongo yangokola ya kitabati ya uongozaji wa kitabati ya kumwangi wa kitabati ya mwisho wa wanaume.
+Instruction: Translate the following English sentence:Judges are the most important civil servants in the country.. ###Input: Acoli Translation: Juko gin jang ole oku ole ken oku.
+
+###Output: English Translation: Judges are the most important civil servants in the country.
+
+###Input: Luganda Translation: Eki kyokyezitabagire bw'eki kyokyeze b'eki kyokyere.
+
+###Output: English Translation: Judges are the most important civil servants in the country.
+
+###Input: Lumasaaba Translation: Jina lino ngaa jinene ky'eno kya lino ne jinene kiy'ena l'eno ne jinene kiy'ena l'eno.
+
+###Output: English Translation: Judges are the most important civil servants in the country.
+
+###Input: Runyakore Translation: Jina lino ne jingine ne jinene ne jingine ne jingine ne jinene kiy'ena l'eno.
+
+###Output: English Translation: Judges are the most important civil servants in the country.
+
+###Input: Kiswahili Translation: Utamaduni wa kadhi zetu zetu zote zitakamani mengine mengine wa jamhuri ya kenya.
+
+###Output: English Translation: Judges are the most important civil servants in the country.
+Instruction: Translate the following English sentence:Prices of commodities keep on changing every day.. ###Input: Acoli Translation: Ongi kok ni kok kum kim kuon ni.
+### Input: Luganda Translation: Ennyumba kumalabala kumalamu okwenda okweenda.
+### Input: Lumasaaba Translation: Ennyumbi kuma lamalabala kuma lamalamu omwe omwe omutwani.
+### Input: Runyakore Translation: Enkyumba kuumalabala kuumalamu okwenda okwenda.
+### Input: Kiswahili Translation: Utaenda kwa mwaka kwa mwaka kwa mwaka amri ya kimoto kwa kumalabala.
+### Input: English Translation: Prices of commodities keep on changing every day.
+### Output: Translation:
+
+### Input: Acoli Translation: Ongi kok ni kok kum kim kuon ni.
+### Output: Translation: Prices of commodities keep changing every day.
+### Input: Luganda Translation: Ennyumba kumalabala kumalamu okwenda okweenda.
+### Output: Translation: Prices of commodities keep changing every day.
+### Input: Lumasaaba Translation: Ennyumbi kuma lamalabala kuma lamalamu omwe omwe omutwani.
+### Output: Translation: Prices of commodities keep changing every day.
+### Input: Runyakore Translation: Enkyumba kuumalabala kuumalamu okwenda okwenda.
+### Output: Translation: Prices of commodities keep changing every day.
+### Input: Kiswahili Translation: Utaenda kwa mwaka kwa mwaka kwa mwaka amri ya kimoto kwa kumalabala.
+### Output: Translation: Prices of commodities keep changing every day
+Instruction: Translate the following English sentence:Banks offer loans to people.. ###Input: Acoli Translation: Akoi lino lo oyeko wii wai kuon aki kuon aki wii wai kum akoi wii lino.
+Translation of "Banks offer loans to people." in Acoli is: Akoi lino lo oyeko wii wai kuon aki kuon aki wii wai kum akoi wii lino.
+
+Instruction: Translate the following English sentence:He will help you get a loan. ###Input: Acoli Translation: Akoi wii kuon aki wii oyeko...
+Translation of "He will help you get a loan." in Acoli is: Akoi wii kuon aki wii oyeko wiikum akoi wii lino.
+
+Instruction: Translate the following English sentence:You cannot access the loan facility until you have completed the training program. ###Input: Acoli Translation: Akoi wai wiikum aki lino...
+Translation of "You cannot access the loan facility until you have completed the training program." in Acoli is: Akoi wai wiikum aki lino wii wai wiikum akoi wai lino.
+
+Instruction: Translate the following English sentence:They will train you on how to manage your loan. ###Input: Acoli Translation: Akoi oyeko wii kuon wii wai wiio...
+Translation of "They will train you on how to manage your loan." in Acoli is: Akoi oyeko wii kuon wii wai wiio akoi oyeko wii kuon.
+
+Instruction: Translate the following English sentence:I am unable to provide you a loan right now. ###Input: Acoli Translation: Wii wai wiio aki...
+Translation of "I am unable to provide you a loan right now." in Acoli is: Wii wai wiio aki wii wai oyeko.
+
+Instruction
+Instruction: Translate the following English sentence:Police officers arrested some criminals in our area this morning.. ###Input: Acoli Translation: Kw'ak'ok w'o kum'enye olo omu ma'i olo omu omu omu o'o ma'i.
+
+### Output: Luganda Translation: 
+### Input: Luganda Translation: 
+### Output: Lumasaaba Translation: 
+### Input: Lumasaaba Translation: 
+### Output: Runyakore Translation: 
+### Input: Runyakore Translation: 
+### Output: Kiswahili Translation: 
+
+### Input: Kiswahili Translation: 
+### Output: English Translation: Police officers arrested some criminals in our area this morning.
+
+### Input: English Translation: 
+### Output: Acoli Translation: 
+### Input: Acoli Translation: 
+### Output: Luganda Translation: 
+### Input: Luganda Translation: 
+### Output: Lumasaaba Translation: 
+### Input: Lumasaaba Translation: 
+### Output: Runyakore Translation: 
+### Input: Runyakore Translation: 
+### Output: Kiswahili Translation: 
+
+### Input: Kiswahili Translation: 
+### Output: English Translation: Police officers arrested some criminals in our area this morning.
+
+### Input: English Translation: 
+### Output: Acoli Translation: 
+### Input: Acoli Translation: 
+### Output: Luganda Translation: 
+### Input: Luganda Translation: 
+### Output: Lumasaaba Translation: 
+### Input: Lumasaaba Translation: 
+### Output: Runyakore Translation: 
+### Input: Runyakore Translation: 
+### Output: Kiswahili Translation: 
+
+### Input: Kiswahili Translation: 
+### Output: English Translation:
+Instruction: Translate the following English sentence:Illegal possession of a gun is punishable by law.. ###Input: Acoli Translation: Olo otii kak olo kok wan kak wang wang.
+
+### Output: Luganda Translation: Amagambo obulungi obulungi bakakakwanga kubulungi bakakakwa.
+
+### Input: Luganda Translation: Amagambo obulungi obulungi bakakakwanga kubulungi bakakakwa.
+
+### Output: Kiswahili Translation: Uwongo wa kumaliza kikakaka kabisomwa kupanga kikakwanga.
+
+### Input: Kiswahili Translation: Uwongo wa kumaliza kikakaka kabisomwa kupanga kikakwanga.
+
+### Output: Runyakore Translation: Omukwanga omukibangi b'enju ki'enju ki'enju n'obulungi b'amagambo.
+
+### Input: Runyakore Translation: Omukwanga omukibangi b'enju ki'enju ki'enju n'obulungi b'amagambo.
+
+### Output: Lumasaaba Translation: Omw'anga omukibangi b'ekikika b'ekikika b'ekikika n'obulungi b'omw'anga.
+
+### Input: Lumasaaba Translation: Omw'anga omukibangi b'ekikika b'ekikika b'ekikika n'obulungi b'omw'anga.
+
+### Output: Acholi Translation: Olo otii kak olo kok wan kak wang wang.
+
+### Input: Acholi Translation: Olo otii kak olo kok wan kak wang wang.
+
+# Input and Output Format
+
+Input format: The input will be in the form of English sentences that need to be translated
+Instruction: Translate the following English sentence:It requires you a good lawyer to win a court case.. ###Input: Acoli Translation: Kakwai mwaka nye kyeko kwonyokye ki kimanyenye gwangwany.
+###Output: Luganda Translation: Ababye nkyeyi gwe bw'ababye gwe bwaamakyali kyokyokye kyakyamu.
+###Output: Runyakore Translation: Ababye nkyeyi gwe b'ababye gwe bwaamakyali kyokyokye kyakyamu.
+###Output: Lumasaaba Translation: Ababye nkyeyi gwe b'ababye gwe bwaamakyali kyokyokye kyakyamu.
+###Output: Kiswahili Translation: Udhibiti mwaka kuhusu mahali kuombe mwenyekwa nje kuhusulisha mtakatifu mwenyekwa.
+###Output: Acholi Translation: Kakwai mwaka nye kyeko kwonyokye ki kimanyenye gwangwany.
+###Output: Lumasaaba Translation: Ababye nkyeyi gwe b'ababye gwe bwaamakyali kyokyokye kyakyamu.
+###Output: Kiswahili Translation: Udhibiti mwaka kuhusu mahali kuombe mwenyekwa nje kuhusulisha mtakatifu mwenyekwa.
+###Output: Luganda Translation: Ababye nkyeyi gwe b'ababye gwe bwaamakyali kyokyokye kyakyamu.
+###Output: Acholi Translation: Kakwai mwaka nye kyeko kwonyokye ki kimanyenye gwangwany.
+###Output: Lumasaaba Translation: Ababye n
+Instruction: Translate the following English sentence:Police officers are highly skilled in their work.. ###Input: Acoli Translation: Kipi o'mur kimweli kimweli wan omu ki kimeli kimeli omu.
+Translation: The police officers are highly skilled in their job.
+###Output: Luo Translation: Emuo olii okuok mokor wiim omu.
+Translation: Police officers are skilled in their work.
+###Output: Luganda Translation: Emuwakula ekyo kikitibula ky'ekyobutibu.
+Translation: Police officers are skilled in their works.
+###Output: Runyakore Translation: Emwakurura omu kitabu mwaka ekyo.
+Translation: Police officers are skilled in works.
+###Output: Kiswahili Translation: Ulimwenguni wa mipolisi kuwa wakati ya kazi ya kampuni.
+Translation: Police officers are skilled in their duty.
+###Input: Kiswahili Translation: Ulimwenguni wa mipolisi kuwa wakati ya kazi ya kampuni.
+###Output: Acoli Translation: Kipi o'mur kimweli kimweli wan omu ki kimeli kimeli omu.
+###Output: Luo Translation: Emuo olii okuok mokor wiim omu.
+###Output: Luganda Translation: Emuwakula ekyo kikitibula ky'ekyobutibu.
+###Output: Runyakore Translation: Emwakurura omu kitabu mwaka ekyo.
+###Output: Kiswahili Translation: Ulimwenguni wa mipolisi kuwa wakati ya kazi ya kampuni.
+###Input: Runyakore Translation: Emwakurura omu kitabu mwaka ekyo.
+###Output: Acoli Translation: Kip
+Instruction: Translate the following English sentence:It is not easy to survive a case with clear evidence.. ###Input: Acoli Translation: Eki mok kok kik ee kum ole oyoo ler okei.
+ Output: Lumasa Translation: Tikambe kumwana tili tikambe 
+ Output: Luo Translation: Onyi nyele ne okuk kuonyele.
+ Output: Kiswahili Translation: Sisi sisi kuwa hawezi kupenda kuwa kuonjea.
+ Output: Luganda Translation: Bweye bw'ebye eki kuonyele.
+ Output: Runyakitara Translation: Mw'ambye bw'ambye eki kukumwana.
+ Output: Kikuyu Translation: Mwakupenda kuonjea. 
+###Input: Lumasa Translation: Tikambe kumwana tili tikambe 
+ Input: Acoli Translation: Eki mok kok kik ee kum ole oyoo ler okei.
+ Output: English Translation: It is not easy to survive a case with clear evidence.
+Output: Luo Translation: Onyi nyele ne okuk kuonyele.
+Output: Kiswahili Translation: Sisi sisi kuwa hawezi kupenda kuwa kuonjea.
+Output: Luganda Translation: Bweye bw'ebye eki kuonyele.
+Output: Runyakitara Translation: Mw'ambye bw'ambye eki kukumwana.
+Output: Kikuyu Translation: Mwakupenda kuonjea.
+###Input: Luo Translation: Onyi nyele ne okuk kuonyele.
+ Input: Acoli Translation: Eki mok kok kik ee kum ole oyoo ler okei.
+ Output: English Translation: It is not easy to survive a case with clear evidence.
+Output:
+Instruction: Translate the following English sentence:Oil is a very profitable item of trade world over.. ###Input: Acoli Translation: Kakakak aci oil oku kuon kuon kuon kuakakak.
+Translation: Oil is a very profitable item of trade world over.
+###Input: Dholuo Translation: Oli kuon paka kuon paka kuon kuon kuon paka.
+Translation: Oil is a very profitable item of trade world over.
+###Input: Luo Translation: Oi nye oi nye nye oi nye nye paka paka.
+Translation: Oil is a very profitable item of trade world over.
+###Input: Maa Translation: Aku aku aku oo paka oo paka paka.
+Translation: Oil is a very profitable item of trade world over.
+###Input: Kikuyu Translation: Oil is very profitable business world over kuna kuna.
+Translation: Oil is very profitable business world over. 
+###Input: Kamba Translation: Mwakakak aku aku aku paka paka.
+Translation: Oil is very profitable business world over. 
+
+###Output: English Translation: Oil is a very profitable item of trade world over. 
+
+###Comments:
+
+* In Acoli, the word "aku" which means "oil" has a different pronunciation as compared to the other languages. In Acoli, it is pronounced as "akakak".
+* In Dholuo, the word "paka" which means "oil" is pronounced with a different pitch.
+* In Luo, the word "oi" which means "oil" has different intonation.
+* In Maa, the word "akua" which means oil" is pronounced differently.
+* In Kikuyu, the pronoun "kuna" means "world over".
+* In Kamba, the pronoun "mwakakak" means "very profitable business".
+Instruction: Translate the following English sentence:The government has compensated the people who lost their land during the road expansion.. ###Input: Acoli Translation: Ngiyakinyi ngiyo lam lam lanyi nga akyangi lam lam lam lanyi ngiyo lam lanyi ngiyo lam lam lam lanyi nkakanyi lam lam.. ###Output: Luganda Translation: Omukaana bakisobwa abagala b'ekitiri ky'enjulira nga bakisobwa ky'ekitiri nga bakisobwa ky'enjulira.
+###Input: Luganda Translation: Omukaana bakisobwa abagala b'ekitiri ky'enjulira nga bakisobwa ky'ekitiri nga bakisobwa ky'enjulira. ###Output: Acoli Translation: Ngiyakinyi ngiyo lam lam lanyi nga akyangi lam lam lam lanyi ngiyo lam lanyi ngiyo lam lam lam lanyi nkakanyi lam lam.. 
+###Input: Luganda Translation: Omukaana bakisobwa abagala b'ekitiri ky'enjulira nga bakisobwa ky'ekitiri nga bakisobwa ky'enjulira. ###Output: Runyakore Translation: Omukana kikisobwa abagala b'ekitiri ky'enjuliri ng'a omukana kikisobwa ky'ekitiri nga omukana kikisobwa ky'enjuliri.
+###Input: Runyakore Translation: Omukana kikisobwa abagala b'ekitiri ky'enjuliri ng'a omukana kikisobwa ky'ekitiri nga omukana kikisobwa ky'enjuliri. ###Output: A
+Instruction: Translate the following English sentence:Tax officers closed a number of shops without trading licenses.. ###Input: Acoli Translation: Kwokwok otongi olok okok wok okak wok oku okak oku omongole... ###Output: Luganda Translation: Omuka kumulira obulungi bw'enjala okulungi b'omulungi bwe enkulungi okulungi omukulu okuluganda... ###Output: Lumasaaba Translation: Omulamuza b'obulungi bwe obulunywa b'amulamuzi b'omuza bwe obulamuzi. Luganda translation is: Omuka kumulira obulungi bwe enjala okulungi b'omulungi bwe enkulungi okulungi omukulu okuluganda... ###Output: Runyakore Translation: Omuguzi b'obulungi b'enjala okulungi b'omulungi bwe okulungi omukulu omuguzi... ###Output: Kiswahili Translation: Vifanzi vifanzi vipendekezwa kwa mipango ya kuzungumza... ###Output: Lingala Translation: Muzika mumukula b'okulunge b'obulungi b'omulungi bwe okulunge...
+Instruction: Translate the following English sentence:There are many smuggled goods in the country.. ###Input: Acoli Translation: Aki mwaka olima nye ngu ngu nye oli ngo ler oku kore oku.
+Instruction: Translate the following English sentence:Almost all political parties have their headquarters in the capital city.. ###Input: Acoli Translation Instruction: Interpret the following English sentence: The current drought situation has caused a lot of famine in the entire area.. ###Input: Luganda Translation Instruction: Interpret the following English sentence:The current drought situation has caused a lot of famine in the entire area.. ###Input: Lumasaaba Translation Instruction: Translate the following English sentence: The company will provide accommodation to all its employees.. ###Input: Runyakore Translation Instruction: Translate the following English sentence: The company will provide accommodation to all its employees.. ###Input: Kiswahili Translation Instruction: Translate the following English sentence:The company will provide accommodation to all its employees.. ###Input: Luhya Translation Instruction: Interpret the following English sentence:The president has announced a reduction in tax rates for all farmers... ###Input: Lamba Translation Instruction: Translate the following English sentence: Almost all political parties have their headquarters in the capital city.. ###Input: Kikamba Translation Instruction: Interpret the following English sentence:The current drought situation has caused a lot of famine in the entire area.. ###Input: Kikuyu Translation Instruction: Translate the following English sentence: The company will provide accommodation to all its employees.. ###Input: Kirundi Translation Instruction: Translate the following English sentence:The president has announced a reduction in tax rates for all farmers... ###Input: Runyakore Translation Instruction: Translate the following English sentence:Almost all political parties have their headquarters in the capital city.. ###Input: Kiswahili Translation Instruction: Translate the following English sentence:The company will provide accommodation to all its employees.. ###Input: Luganda Translation Instruction: Interpret the following English sentence:The current drought situation has caused a lot of famine in the entire area.. ###Input: Kikamba Translation Instruction: Translate the following English sentence:The president has announced a reduction in tax rates for all farmers... ###Input: Kiswahili Translation Instruction: Translate the following English sentence:Almost all political parties have their headquarters
+Instruction: Translate the following English sentence:Some leaders are not cooperative.. ###Input: Acoli Translation: Amo lino tero nayo lwogi nayo bwogi bwogi.
+
+### Input: Luganda Translation: Ekyaliwo muwuliro okuyuliza okutangiizibwa. ###Output: English Translation: Some leaders are not cooperative.
+
+### Input: Runyakore Translation: Omujwa kino tero nayo omujwa kino okutangiiza. ###Output: English Translation: Some leaders are not cooperative.
+
+### Input: Luo Translation: Oluo tero lina wang oluo tero ku wang. ###Output: English Translation: Some leaders are not cooperative.
+
+### Input: Kiswahili Translation: Mwaka wa mwaka wa nchi zetu zinapenda penda. ###Output: English Translation: Some leaders are not cooperative.
+
+### Input: Kirundi Translation: Abatutse ku ku mwaka wa mwaka. ###Output: English Translation: Some leaders are not cooperative.
+
+### Input: Lingala Translation: Bokili bokila bokila bakili mokila. ###Output: English Translation: Some leaders are not cooperative.
+
+### Input: Tigrigna Translation: አቶ ምስሃም ኤምኢ መሰል በላችያ. ###Output: English Translation: Some leaders are not cooperative.
+
+### Input: Amharic Translation: አቶው ምስሃም ኤምኢ መሰል በላችያ. ###Output: English Translation: Some leaders are not cooperative.
+Instruction: Translate the following English sentence:Other party members disagreed with the leaders' decision.. ###Input: Acoli Translation: Ekok ni olok kimakol akek oyeko lwogi okuyo.  Translation: Luganda Translation:.................................  Translation: Lumasaaba Translation:.................................  Translation: Runyakore Translation:.................................  Translation: Runyakiza Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  Translation:.................................  
+Instruction: Translate the following English sentence:Health workers play an important role in people's lives.. ###Input: Acoli Translation: Amel ku wan omu gur gweng okweri wong gwak gweng.. ###Output: Luganda Translation: Abamuzi kubanga ku mugwanga kubange mukolere kubango.
+###Input: Luganda Translation: Abamuzi kubanga ku mugwanga kubange mukolere kubango. ###Output: English Translation: Health workers play an important role in people's lives. ###Input: Runyakitara Translation: Kutuku ku kumushi ku mungi ku mubi ku kitega. ###Output: Luganda Translation: Abamuzi kubanga ku mugwanga kubange mukolere kubango. ###Input: Luganda Translation: Abamuzi kubanga ku mugwanga kubange mukolere kubango. ###Output: English Translation: Health workers play an important role in people's lives. 
+
+
+Instruction: Translate the following English sentence:Government should fully equip the labor wards in most public hospitals.. ###Input: Acoli Translation: Ebor ku nya ku ken oyu kek kek ken oyu kuk kuk ken oyu kek u mumu oku kek ku kek u ken u ken u. ken. ###Translation: Luganda Translation: Abasinza ky'okulira n'okulaba omu ky'oky'okulibwa mu ky'oky'okubuzi bwe bwe n'okulirwa oky'oeky'okukuza. ###Input: Luganda Translation: English Translation: The government should fully equip the labor wards in most public hospitals. ###Output: Acoli Translation: Ebor ku nya ku ken oyu kek kek ken oyu kuk kuk ken oyu kek u mumu oku kek ku kek u ken u ken u. ken. ###Output: Luganda Translation: English Translation: The government should fully equip the labor wards in most public hospitals. ###Output: Translation: Acholi Translation: Ebor ku nya ku ken oyu kek kek ken oyu kuk kuk ken oyu kek u mumu oku kek ku kek u ken u ken u. ken. ###Output: Translation: Luganda Translation: English Translation: The government should fully equip the labor wards in most public hospitals. 
+
+### Input: Acoli Translation: Ebor ku nya ku ken oyu kek kek ken oyu kuk kuk ken oyu kek u mumu oku kek ku kek u ken u ken u. ken. ###Input: Luganda Translation: English Translation: The government should fully equip the labor wards in most public hospitals. ###Output: Acoli Translation: Ebor ku nya ku ken oyu k
+Instruction: Translate the following English sentence:Poor communication hinders the development of an area.. ###Input: Acoli Translation: Oyak kumunyak murok nayi n'akol.
+Translation: The poor communication hinders the development of the area.
+
+### Input: Luganda Translation: Ekitabulabye emu bwa enyama omukulira ky'omwaka.
+Translation: Communication is poor and this causes problems for the development of the area.
+
+### Input: Runyakore Translation: Ekitibulabire murebya ku nkulira enya omwaka.
+Translation: Communication is poor and causes a problem in the development of the area.
+
+### Input: Lumasaaba Translation: 
+Translation: Communication is poor and causes problems in the development of the area.
+
+### Input: Kiswahili Translation: Kumshukuru ni kumunyakoni kuja kupungo la kifunza.
+Translation: Communication failure hinders the growth of development.
+
+### Input: English Translation: Communication failure hinders the growth of development.
+
+## Instruction: Translate the following English sentence:The government has established an institution to train youth in agricultural development... ###Input: Acoli Translation: Oyak nayak kumalak oku n'akok omongi oma ku n'anyin y'omwaka.
+Translation: The government established a place to train young people in the field of agriculture.
+
+### Input: Luganda Translation: Ekiraga ababulabye omulagala ky'okyakye n'akulira enya omwaka.
+Translation: The government established an institution to train the youth to work on agriculture.
+
+### Input: Runyakore Translation: Ekiraga ababulabye omulagala ku nkulira enya omwaka.
+Translation: The government established an institution to train the youth to work in agriculture.
+
+### Input: Lumasaaba Trans
+Instruction: Translate the following English sentence:The government gets financial support from other countries.. ###Input: Acoli Translation: Cik cik ekit okwak oyin mong ole kakwak ekit ot.
+###Output: Luganda Translation: Bwanga omukuliwo bwana omukulira bw'e kkuba emukuliro b'e.###Output: Lumasaaba Translation: Aahi omukuli kkuba aahi omukuli okukuba omukuli b'e.###Output: Runyankore Translation: Bwaha emukuliwo bwaha emukuli omukuli omukuli b'e.###Output: Kiswahili Translation: Uongozi wa umma hiyo uongozi wa mwaka wa kiwanda kutoka kwa mwaka.###Output: Lumumba Translation: Ahhii omukuli kkuba aahi omukuli okukuba omukuli b'e.###Output: Kiziguruma Translation: Umukuliyo omukuliro omukuli omukuli omukuliye b'e.###Output: Lumera Translation: Ommukiriro kkuba ommukiriro ommukiriro ommukiririye b'e.###Output: Bahororo Translation: Omukuli omukuliro omukuli omukuli omukuliye b'e.###Output: Kiswahili Translation: Uongozi wa mwaka wa kiwanda kutoka kwa mwaka.###Output: Luganda Translation: Bwanga omukuliwo bwana omukulira bw'e kkuba emukuliro b'e.###Output: Lumasaaba Translation: Aahi omukuli kkuba aahi omukuli okukuba omukuli b'e.###Output: Runyankore Translation: Bwaha emuk
+Instruction: Translate the following English sentence:Sometimes people die innocently.. ###Input: Acoli Translation: Oti oyok kwang iyo ku kitang ku kitang.
+
+Instruction: Translate the following English sentence:The police will kill you if you continue to fight us.. ###Input: Acoli Translation: Oti oyok iyo kitok iyo kitang iyo otik.
+
+Instruction: Translate the following English sentence:The government is very corrupt.. ###Input: Acoli Translation: Oti oyok kitang iyo oti otik kitang otik.
+
+Instruction: Translate the following English sentence:He will pay for that mistake tomorrow.. ###Input: Acoli Translation: Oti otit iyo tikok tikok iyo ti kitang.
+
+Instruction: Translate the following English sentence:I have never seen such a big crowd in my life... ###Input: Acoli Translation: Oti iyo oti kitang iyo oti otik iyo otit.
+
+Instruction: Translate the following English sentence:She said she will return next week.. ###Input: Acoli Translation: Oti otit iyo kitang iyo otik iyo otit otik.
+
+Instruction: Translate the following English sentence:They have just finished eating.. ###Input: Acoli Translation: Oti otit iyo oti kitang iyo oti otik.
+
+Instruction: Translate the following English sentence:They are coming tomorrow.. ###Input: Acoli Translation: Oti otit iyo tikok otik iyo otit iyo kitang.
+
+Instruction: Translate the following English sentence:This is my house.. ###Input: Acoli Translation: Oti otit iyo kitang iyo otik oti.
+
+Instruction: Translate the following English sentence:He is a very lazy man.. ###Input: Acoli Translation: Oti otit iyo otik oti iyo otit.
+
+Instruction: Translate the following English sentence:I don't know him.. ###Input: Acoli Translation: Oti otit i
+Instruction: Translate the following English sentence:Government officials deserve to have bodyguards.. ###Input: Acoli Translation: Ajok akeer ku jok oyak eekiyo okuj.
+Output: English Translation: Government officers deserving to have bodyguards. 
+
+### Input: Acoli Translation: Akeekiyo oyak eekiyo okuj ajok.
+Output: English Translation: Bodyguards for government officers.
+
+### Input: Luganda Translation: Ababayi kuba kubanga abantu.
+Output: English Translation: People should have bodyguards.
+
+### Input: Luganda Translation: Akiyambi mu b'omugyenja abantu bakuba kuba. 
+Output: English Translation: Government officials are supposed to have bodyguards. 
+
+### Input: Luganda Translation: Abantu bakuba kuba kubanga.
+Output: English Translation: Bodyguard for people.
+
+### Input: Runyakore Translation: Banyangirize mukubanga.
+Output: English Translation: It is good to have a bodyguard.
+
+### Input: Runyakore Translation: Mukubanga abantu.
+Output: English Translation: Bodyguard for people.
+
+### Input: Runyakore Translation: Abantu bubanga kugwa.
+Output: English Translation: Government officials deserve good bodyguards.
+
+### Input: Runyakore Translation: Abantu bubanga ku ngo.
+Output: English Translation: People deserve to have bodyguards.
+
+### Input: Runyakore Translation: Abantu bubanga kugwa.
+Output: English Translation: Government officials deserve good bodyguards.
+
+### Input: Runyakore Translation: Abantu bubanga ku ngo.
+Output: English Translation: People deserve to have bodyguards.
+
+### Input: Runyakore Translation: Abantu bubanga kubanga kumugwe.
+Output: English
+Instruction: Translate the following English sentence:There is poor security in our area.. ###Input: Acoli Translation: Omol okor wan wan nayi wan gwogwok okor.
+### Output: Luganda Translation: Emiruka mu babaleebaleeba nnyabagala abaabayala.
+### Output: Lumasaaba Translation: Emena mubabaaba lwabalirwa abaabayala
+### Output: Runyankore Translation: Emiruka mu babaleebaleeba nnyabagala abaabayala.
+### Output: Kiswahili Translation: Ninaendelea neno yanajibu kumuunga kuwa wanadamu wa kutengeneza.
+### Output: Lugar Translation: Amira mw'emera mumu bakabalibwa n'akabakakabwere.
+### Output: Luo Translation: Onya ameekuwa otoka kuongee kuot.### Output: Kumamire Language Translation: Ameenira mume mw'emera mumu bakabalibwa n'akabakakabwere.
+### Output: Runyakitara Translation: Emena mubabaaba lwabalirwa abaabayala.
+### Output: Kikamba Translation: Emaemeraa mw'emeraa mumwa bakabalibwa nnyababalirwa abaabayala.
+### Output: Kigezi Translation: Enyaamiryaa amiremaa kumubabaabaliri wa ababalirwa abaabayala.### Output: Lumumba Translation: Ninaendelea neno yanajibu kumuugwa kuwa wanadamu wa kutengeneza.
+### Output: Kirogo Translation: Ameemiryaa mw'emeraa mumwa bakabalibwa nnyababalirwa abaabayala.
+Instruction: Translate the following English sentence:Many African countries have experienced rebel attacks.. ###Input: Acoli Translation: Ajam lwak bwang panyin lwog lwak oyoo lwang.
+Translation Output: Luganda Translation: Abawedde bikwang ky'amu ky'amu lw'o lwokw'o.
+Translation Output: Lumasaaba Translation: Ajam lwak bwang panyin lwog lwak oyoo lwang.
+Translation Output: Runyakore Translation: Amakwangira bikwang ky'amu ky'amu lw'o lwokw'o.
+Translation Output: Kiswahili Translation: Utakwambaa kutawakula na kukwambaa kwa mwezi. ###Input: Luganda Translation: Abawedde bikwang ky'amu ky'amu lw'o lwokw'o. ###Output: Runyakore Translation: Amakwangira bikwang ky'amu ky'amu lw'o lwokw'o. ###Output: Kiswahili Translation: Utakwambaa kutawakula na kukwambaa kwa mwezi.###Input: Acoli Translation: Ajam lwak bwang panyin lwog lwak oyoo lwang. ###Output: Luganda Translation: Abawedde bikwang ky'amu ky'amu lw'o lwokw'o. ###Output: Runyakore Translation: Amakwangira bikwang ky'amu ky'amu lw'o lwokw'o.###Output: Kiswahili Translation: Utakwambaa kutawakula na kukwambaa kwa mwezi.###Input: Lumasaaba Translation: Ajam lwak bwang panyin lwog lwak oyoo lwang. ###
+Instruction: Translate the following English sentence:Wars lead to the loss of people's lives and property.. ###Input: Acoli Translation: Eki nyei luk oyangi lirim aciro### Output: Luganda Translation: Omulimulira aba ky'eki ky'akyeki### Output: Runyankore Translation: Omulimula buli bakyeki bakye...
+
+Instruction: Translate the following English sentence:The government has promised to compensate the victims of the war.###Input: Acoli Translation: Oyangi lirim aciro b'eki kakikiki kye### Output: Luganda Translation: Omulimulira aba ky'akyeki ky'eki kye### Output: Runyankore Translation: Omulimula buli buli bakyeki bakye...
+
+Instruction: Translate the following English sentence:Those who have lost their homes will be given shelter.###Input: Acoli Translation: Oyangi lirim aciro b'eki kakikiki kye### Output: Luganda Translation: Omulimulira aba ky'akyeki ky'eki kye### Output: Runyankore Translation: Omulimula buli buli bakyeki bakye...
+
+Instruction: Translate the following English sentence:The war has affected the economy of the country.###Input: Acoli Translation: Eki nyei luk oyangi lirim aciro### Output: Luganda Translation: Omulimulira aba ky'eki ky'akyeki### Output: Runyankore Translation: Omulimula buli buli bakyeki bakye...
+
+Instruction: Translate the following English sentence:The war has caused many deaths.###Input: Acoli Translation: Eki nyei luk oyangi lirim aciro### Output: Luganda Translation: Omulimulira aba ky
+Instruction: Translate the following English sentence:Maize is one of the major food crops in Uganda.. ###Input: Acoli Translation: Eka ku nayi kayen mw'okwakye k'eku k'akwakye ena mw'okwakye ku k'akwakye ena Uganda.. ###Output: Luganda Translation: Eki ku nayi kayi k'okwakye ki k'akwakye ena mw'okwakye ki k'akwakye ena Uganda.. ###Output: Lumasaaba Translation: Eki ku nayi k'okwakye ki k'akwakye ku mw'okwakye ku k'akwakye ena Uganda.. ###Output: Runyakore Translation: Eki ku nayi kayi k'okwakye ki k'akwakye ena mw'okwakye ki k'akwakye ena Uganda.. ###Output: Kiswahili Translation: Eki ku nayi kayi k'okwakye ki k'akwakye ena mw'okwakye ki k'akwakye ena Uganda..
+Instruction: Translate the following English sentence:Farmers have resorted to the use of machines to improve their yields.. ###Input: Acoli Translation: Amakwak wong'o nayak wok nikakwak nayak kyawak nikwak nayak kyawak kikwang ku.
+###Output: Luo Translation: Ekuo mumutu munyamurat kikamatang wak wang wong'e omu.
+###Output: Luganda Translation: Emwogwa kutumulira kikamutwangi ku emwogwa n'okutu.
+###Output: Runyakore Translation: Mwogwa kutumulira kikamutwangi ku mwogwa n'okutu.
+###Output: Kiswahili Translation: Mzuri sasa sana amelipunga kikamtai ama kwa nne mwanaumbe.
+
+Instruction: Translate the following English sentence:The farmers have received the new equipment and are able to plant more crops than last year.. ###Input: Acoli Translation: Amakwak wong'o nayak wok nikakwak nayak kyawak nikwak nayak kyawak kikwang ku.
+###Output: Luo Translation: Ekuo mumutu munyamurat kikamatang wak wang wong'e omu.
+###Output: Luganda Translation: Emwogwa kutumulira kikamutwangi ku emwogwa n'okutu.
+###Output: Runyakore Translation: Mwogwa kutumulira kikamutwangi ku mwogwa n'okutu.
+###Output: Kiswahili Translation: Mzuri sana sana amelipunga kikamtai ama kwa nne mwanaumbe.
+
+Instruction: Translate the following English sentence:The government has introduced a new agricultural
+Instruction: Translate the following English sentence:Prices for agricultural products keep changing from time to time.. ###Input: Acoli Translation: Ong'ak gwang kwak lam kak kwak wac wac.. ###Input: Dholuo Translation: Ondhakai ya kupenda mwangi kwa kutafuta... ###Input: Luo Translation: Ndoakai ya kupenda mwangi kwa kutafuta... ###Input: Kikuyu Translation: Ondhakai ya kupenda mwangi kwa kukwama... #Output: English Translation: Agricultural product prices keep changing from time to time...
+Instruction: Translate the following English sentence:The Uganda national anthem has three stanzas.. ###Input: Acoli Translation: Kw'akw'akw'ak ku lino lina mok w'o.
+###Output: Luganda Translation: Omukulira ebyo kya uganda.
+###Output: Lumasaaba Translation: 
+###Output: Runyakore Translation: 
+###Output: Runyakwajwa Translation: 
+###Output: Lumumba Translation: 
+###Output: Kiswahili Translation: Uchungu wa Uganda ni sawa kuwa kuwa mishangwa.
+
+Instruction: Translate the following English sentence:The national anthem was written in the 1960s.. ###Input: Acoli Translation: Kw'akw'akwak ku lino lina mok w'o.
+###Output: Luganda Translation: Omukulira ebyo kya uganda.
+###Output: Lumasaaba Translation: 
+###Output: Runyakore Translation: 
+###Output: Runyakwajwa Translation: 
+###Output: Lumumba Translation: 
+###Output: Kiswahili Translation: Uchungu wa uganda ni sawa kuwa mishangwa mwaka 1960.
+
+Instruction: Translate the following English sentence:Uganda's national anthem is the oldest one in East Africa.. ###Input: Acoli Translation: Kw'akw'akwak ku lino lina mok w'o.
+###Output: Luganda Translation: Omukulira ebyo kya uganda.
+###Output: Lumasaaba Translation: 
+###Output: Runyakore Translation: 
+###Output: Runyakwajwa Translation: 
+###Output: Lumumba Translation: 
+###Output: Kiswahili Translation: Uganda ni uchungu wa
+Instruction: Translate the following English sentence:The independence day celebrations are done in October every year.. ###Input: Acoli Translation: Cik pik lino ole oti ku ngo ler lw'ocak pik ole... ###Output: Luganda Translation: Obukulira ku ngo ler okuliro omu nga... ###Input: Luganda Translation:...
+
+```
+Note: This is an Acoli (Dholuo) to Luganda and Luganda to Acoli translation.
+```
+
+### Output: Lumasaaba Translation:...
+
+```
+Note: This is a Lumasaaba translation.
+```
+
+### Output: Runyakore Translation:...
+
+```
+Note: This is a Runyakore translation.
+```
+
+### Output: Kiswahili Translation:...
+
+```
+Note: This is a Kiswahili translation.
+```
+
+### Output: English Translation:...
+
+```
+Note: This is an English translation of the original sentence.
+```
+
+### Input: Acoli Translation: Cik pik lino ole oti ku ngo ler lw'ocak pik ole...
+### Output: Luganda Translation: Obukulira ku ngo ler okuliro omu nga...
+### Output: Lumasaaba Translation:...
+### Output: Runyakore Translation:...
+### Output: Kiswahili Translation:...
+### Output: English Translation:...
+
+
+Instruction: Translate the following English sentence:This country has lost many important people over the years.. ###Input: Acoli Translation: Oku wac oku kuc okutuc oku w'ekwoc oku okwoc w'oekwac kuc koc oku.
+###Translation:###Output: Luganda Translation: Oku ku lya ku kya ekkyo mu okutu.###Input: Luganda Translation:###Translation: English Translation: This country has lost many important people over the years.###Output: Lumasaaba Translation: Oku ku nkula ku nkya ekkyo mu okutu.###Input: Lumasaaba Translation:###Translation: English Translation: This country has lost many important people over the years.###Output: Runyakitara Translation: Oku ku nkula ku nkya ekkyo mu okutu.###Input: Runyakitara Translation:###Translation: English Translation: This country has lost many important people over the years.###Output: Luo Translation: Omok omu okeyo kuon okurak.###Input: Luo Translation:###Translation: English Translation: This country has lost many important people over the years.###Output: Kiswahili Translation: Omwana kutoka kwa ajili kuonamsho la nchi hizi.###Input: Kiswahili Translation:###Translation: English Translation: This country has lost many important people over the years.###Output: Kigeeri Translation: Omwana kutoka kwa ajili kuonamsho la nchi hizi.###Input: Kigeeri Translation:###Translation: English Translation: This country has lost many important people over the years.###Output: Kihaya Translation: Omuona kuonamsho la nchi hizi.###Input: Kihaya Translation:###Translation: English Translation: This country has lost many important people over the years.###Output: Kituba Translation:
+Instruction: Translate the following English sentence:Our capital city is occupied by people from different parts of the country.. ###Input: Acoli Translation: Ocak gwok kuc ole munyekunik ki gwok ku kuc ole mokut.
+###Input: Luo Translation: Mwak ku kumal ole wakum ole ku ku kumal ole ku wakum.
+###Input: Kiswahili Translation: Utamaduni hii ya kabarani kuungano kwa ajili kuungano.
+###Input: Luganda Translation: Okuka kumalala okushi okusiikka okutondeka ku omukama mu ku.
+###Input: Runyakore Translation: Umukama omukama ku kumalala mu ku ku kumalala okusiikka okutondeka.
+###Input: Lumasaaba Translation: Mu kumalala ku ku kumalala okusiikka okutondeka ku mu ku.
+
+Instruction: Summarize the following English Sentence: The company will give a bonus of Shs 1 million to every employee in recognition of their hard work and commitment to the company's success...
+###Output: Acoli Translation: Ochuku kuc ole kuc ku ceki ku ceki ku ceki nye ceki ceki okek ole ku ceki nye ceki ceki.
+###Output: Luo Translation: Neku ku nye ceki nye ceki nye kuc ku ku ku ku ku ku ku ku ku nye ceki.
+###Output: Kiswahili Translation: Kipengele mbili na hizi kuwa mbili wenzake mwisho mwisho.
+###Output: Luganda Translation: Omuddu omukama mu ku kumalala omukama ku omuk
+Instruction: Translate the following English sentence:The government has constructed better health centers in rural areas.. ###Input: Acoli Translation: Acoliel moli gwak liran oi gwak liran... ###Output: Luganda Translation:...
+
+Translation: The government has constructed better health centers in rural areas.
+
+Input: Acoli Translation: Acoliel moli gwak liran oi gwak liran... ###Output: Luganda Translation:...
+
+Input: Luganda Translation:...
+
+Output: English Translation: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instruction: Translate the following English sentence:His death was so sudden.. ###Input: Acoli Translation: Alaa nyingi kibangi bangi bangi.
+
+Instruction: Translate the following English sentence:She was so tired that she could not stand anymore.###Input: Acoli Translation: Alaa oku kayang oku kanyang anyayi.
+
+Instruction: Translation the following English sentence:His brother was the most intelligent of all the children in their class.###Input: Acoli Translation: Alaa anyayi oku kayang oku nyingi ayo.
+
+Instruction: Translate the following English sentence:It is not possible for him to speak to you.###Input: Acoli Translation: Alaa oku kibangi ayo ayo.
+
+Instruction: Translate the following English sentence:The baby is very hungry.###Input: Acoli Translation: Alaa kum ayo.
+
+Instruction: Translate the following English sentence:She has to get ready for school.###Input: Acoli Translation: Alaa kanyang nyingi ayo anyayi.
+
+Instruction: Translate the following English sentence:He was not able to go to school yesterday.###Input: Acoli Translation: Alaa anyayi nyingi bangi.
+
+Instruction: Translate the following English sentence:She is a very hardworking girl.###Input: Acoli Translation: Alaa nyingi ayo kum kum.
+
+Instruction: Translate the following English sentence:The dog is chasing the cat.###Input: Acoli Translation: Alaa ako oku nyingi ko.
+Instruction: Translate the following English sentence:Our company celebrated twenty years of existence last year.. ###Input: Acoli Translation: Akoli Translation: Luganda Translation: Lusoga Translation: Translation: Translation: Translation: Translation: Translation: Our coy owiny oyee kyeko kyeko.
+kyemirimu gwe oyeteba ku lw'okw'okw'o yakwe.
+Our coymeerimu gwe oyeteba ku lw'okw'okw'o yakwe.
+Nyina kyemirimu gwe oyeteba ku lw'okw'okw'o yakwe.
+Nyina kyemeeerimu gwe oyeteba ku lw'okw'okw'o yakwe.
+Gwangye nyingi kyemirimu gwe oyeteba ku lw'okw'okw'o yakwe.
+Nyina gwangye nyingi kyemirimu gwe oyeteba ku lw'okw'okw'o yakwe.
+Our company celebrated twenty years of existence last year.
+
+###Comments: 1. The translation is word for word. 2. In the first sentence, the term used for "company" is "koy". The term is not a common word in Uganda languages but is commonly used in Acholi. 3. In the second sentence, the term used for "celebrated "is "kyemirimu" which is a verb in the Acholi language. 4.The term used for "last year" in the third sentence is "lw'okw'okw'o". This is an uncommon term used in Luganda, Lusoga and Acoli languages.
+
+5. In the fifth sentence, the term used for "existence" is "kyemirimu", which is a verb in the Acholi language. 6. The term used for "last year" in the sixth sentence is "lw'okw'okw'o". This is an uncommon term used in Luganda, Lusoga and Acoli languages. 7. In the seventh sentence, the term used for "celebrated" is "kyemirimu". Which is a verb in the Luganda, Lusoga and Acoli languages. 8. In the last sentence, the term used for "last year" is "nyina". Which is a common term used in Luganda, Lusoga and Acoli languages. 
+
+
+###Conclusion: From the above translation, it is clear that there are some differences and similarities in the way different dialects in Uganda handle the meaning of the English sentence "Our company celebrated twenty years of existence last year". However, it is important to note that there is no single correct translation for a particular sentence and that different dialects have different ways of expressing the same meaning.  
+Instruction: Translate the following English sentence:Many people have lost their lives due to sexually transmitted diseases.. ###Input: Acoli Translation: Ongor okul w'akwok olo kyok oyekonya okwok w'akwok olo l'e okwok.
+###Instruction: Translate the following English sentence:The children who survived the war have not forgotten the horrors they witnessed.###Input: Acoli Translation: Okwok w'e lw'o l'ak w'okwok nga lw'o l'ak wok l'ek l'ek okwok.###Input: Luganda Translation: Omuliro okulira omusasa ennyamala ku ntulira ekyokye ekyokye oby'okwe ekyoke okwerera.###Instruction: Translate the following English sentence:The teacher taught the students in the afternoon.###Input: Acholi Translation: Ak k'e olo l'ak w'okwok okuk l'ak w'oke l'ek l'ek okwok.###Input: Luganda Translation: Omushayi omulira enkyomu ekyoke ekyoke omyasika ekyoke okwe ekyoke.###Input: Lumamian Translation: Omuka okuk l'ak w'okwok okutak l'ak w'oke l'ek l'ek okwok.###Instruction: Translate the following English sentence:The man's wife has been suffering from cancer.###Input: Luganda Translation: Enyama oby'okwe n'omulira ku nkulu ekyoke ekyoke n'amutebi kyekyokye.###Input: Acoli Translation: Okwok w'e omuka o'ok w'okwok n'amutebi kyekyokye.###Input: Lumamian Translation: Omuka okuk l'ak w'okwok okutak l'ak w'oke l'ek l'ek okwok.###Input: Luganda Translation: Omutebi omu ky'okye ekyoke, omulira ku nkulu ekyoke ekyoke.###Input: Acoli Translation: Okwok k'e e mu e'e e'e e'e k'e omuka e'e.###Input: Lumamian Translation: Omuka o'ok k'e e'e e'e e'e k'e omuka e'e.###Input: Acoli Translation: Okwok k'e mu o'e e'e e'e k'e omulira ok'e.###Input: Lumamian Translation: Omuka o'ok k'e mu e'e e'e e'e k'e omulira e'e.###Input: Luganda Translation: Omutebi omu ky'okye ekyoke, okwok mu n'amutebi mu n'akwok kyokye.###Input: Acoli Translation: Okwok k'e e mu e'e e'e e'e k'e omulira ok'e.###Input: Lumamian Translation: Omuka o'ok k'e e'e e'e e'e k'e omulira e'e.###Input: Acoli Translation: Omuka ok'e mu e'e e'e e'e k'e okwok.###Input: Lumamian Translation: Omuka o'ok k'e mu e'e e'e e'e k'e okwok.###Input: Luganda Translation: Omushayi omulira enkyomu ekyoke ekyoke omuk ye nkye n'amutebi kyekyokye.###Input: Acoli Translation: Okwok k'e e mu e'e e'e e'e k'e omulira ok'e.###Input: Lumamian Translation: Omuka o'ok k'e e'e e'e e'e k'e omulira e'e.##
+Instruction: Translate the following English sentence:Civil servants receive their pension fund upon retirement.. ###Input: Acoli Translation: Acoli: Kwakwok wang pe kwakwok ku kumutik wang.
+###Output: Luganda Translation: Luganda: Byangira by'akubanga b'agwanga b'akubanga.
+###Output: Runyakore Translation: Runyakore: Kwakwok wakubanga w'akubanga ab'abangwa byanzi.
+###Output: Lumasaaba Translation: Lumasaaba: Kwakwok wakubanga w'akubanga ba by'anzi lw'abasaba.
+###Output: Kiswahili Translation: Kiswahili: Mkubwa wengine kubwa kabila mwanga.
+###Output: Kikuyu Translation: Kikuyu: Kumu kuongo kwa kiwango kiwango.
+###Output: Luo Translation: Luo: Omwaka wa omo kimbu ya omo kimbu.
+###Output: Lingala Translation: Lingala: Pensiwa wokwaka wokwaka bafwa bafwa.
+###Output: Kongo Translation: Kongo: Pensiswa wokwaka wokwaka bafwa bafwa.
+###Output: Tigrinya Translation: Tigrinya: በውጡ ንጡ በልጠ መጠቀ
+###Output: Amharic Translation: Amharic: በሊምዕ ንጡ በዓይን በልጠ ነጋ
+###Output: Arabic Translation: Arabic: إذا كان المواطنون يتبلغوا مواعدهم التي يتم تبويحهم المواطنين.
+###Output: French Translation: French: Les fonctionnaires civils ont accès à leur fonds de pension à la retraite.
+###Output: Portuguese Translation: Portuguese: Os funcionários civis têm acesso ao seu fundo de pensão à reforma.
+###Output: Spanish Translation: Spanish: Los funcionarios civiles tienen acceso a su fondo de pensión a la jubilación.
+###Output: German Translation: German: Beamte erhalten ihren Pensionsfonds bei der Pensionierung.
+###Output: Italian Translation: Italian: I funzionari civili hanno accesso al loro fondo di previdenza alla pensione.
+###Output: Dutch Translation: Dutch: Ambtenaren ont accessen tot hun pensioenfonds bij pensioen.
+###Output:Russian Translation: Russian: Какщо гражданские служащие имеют доступ к их пенсионному fonds при пенсионеirement.
+###Output: Chinese Translation: Chinese: 公共 servants 在退休时接受其 pensi
+###Output: Japanese Translation: Japanese: 公共官吏は退任時に、 pensi
+###Output: Korean Translation: Korean: 민간 관료는 은퇴 시 그의 펀서 표에서 접근합니다.
+###Output: Arabic Translation: Arabic: كيف يكون عمال المرأه يتبلغوا مواعدهم التي يتم تبويحهم المواطنين.
+###Output: French Translation: French: Les travailleurs civils ont accès à leur fonds de pension à la retraite.
+###Output: Portuguese Translation: Portuguese: Os trabalhadores civis têm acesso ao seu fundo de pensão à reforma.
+##
+Instruction: Translate the following English sentence:Teachers are also among civil servants.. ###Input: Acoli Translation: Techers amoye kakakanyo munyang olo.
+#Output: Luganda Translation: Techeri akyo kyokyokye nga lukwagala okw'okyo.
+#Output: Kiswahili Translation: Tafadhali tuangazia kuandikewa kwa kazi mjini.
+#Output: Kisutu Translation: Kw'okyo kuandikewa kwa kazi mjini.
+#Output: Lumasaaba Translation: Tahadi tuumia kuandikewa kwa kazi mji.
+#Output: Runyakore Translation: Techere akyo kyokyokye nga lugenda lya kuandikewa kwa kazi mjini.
+#Output: Runyakizaka Translation: Tafadhali tuangazia kuandikewa kwa kazi mjini.
+#Output: Kisangani Translation: Kw'okyo kuandikewa kwa kazi mjini.
+#Output: Kisabaato Translation: Tahadi tuumia kuandikewa kwa kazi mji.
+#Output: Lumasaaba Translation: Tahadi tuumia kuandikewa kwa kazi mji.
+#Output: Kisutu Translation: Kw'okyo kuandikewa kwa kazi mjini.
+#Output: Kishahili Translation: Tafadhali tuangazia kuandikewa kwa kazi mjini.
+#Output: Kiswahili Translation: Tafadhali tuangazia kuandikewa kwa kazi mjini.
+#Output: Kisikar Translation: Techere akyo kyokyokye nga lugenda lya kuandikewa kwa kazi mjini.
+#Output: Luganda Translation: Techeri akyo kyokyokye nga lugenda lya kuandikewa kwa kazi mjini.
+#Output: Kisakaka Translation: Kw'okyo kuandikewa kwa kazi mjini.
+#Output: Kiswahili Translation: Tafadhali tuangazia kuandikewa kwa kazi mjini.
+#Output: Kisutu Translation: Kw'okyo kuandikewa kwa kazi mjini.
+#Output: Lumasaaba Translation: Tahadi tuumia kuandikewa kwa kazi mji.
+#Output: Runyakore Translation: Techere akyo kyokyokye nga lugenda lya kuandikewa kwa kazi mjini.
+#Output: Runyakizaka Translation: Tafadhali tuangazia kuandikewa kwa kazi mjini.
+#Output: Kisangani Translation: Kw'okyo kuandikewa kwa kazi mjini.
+#Output: Kimaro Translation: Kw'okyo kuandikewa kwa kazi mjini.
+#Output: Kisabaato Translation: Tahadi tuumia kuandikewa kwa kazi mji.
+#Output: Lumasaaba Translation: Tahadi tuumia kuandikewa kwa kazi mji.
+#Output: Kisutu Translation: Kw'okyo kuandikewa kwa kazi mjini.
+#Output: Kishahili Translation: Tafadhali tuangazia kuandikewa kwa kazi mjini.
+#Output: Kiswahili Translation: Tafadhali tuangazia kuandikewa kwa kazi mjini.
+#Output: Kisikar Translation: Techere akyo kyokyokye nga lugenda lya kuandikewa kwa kazi mjini.
+#Output: Luganda Translation: Techeri akyo kyokyokye nga lugenda lya kuandikewa kwa kazi
+Instruction: Translate the following English sentence:There is a high rate of crime in our village.. ###Input: Acoli Translation: Kak kak ojam ku ku kak nyingo okutum oku ugandan omu.
+Outcome: The Acoli translator produced: Crime rate is high in our village
+
+
+Input: Acoli Translation: Kak kak ojam ku ku kak nyingo okutum oku ugandan omu.
+Outcome: The Acoli translator produced: Crime rate is high in our village
+
+
+Input: Luganda Translation: Omukama omukama ky'okutuumu mu kuliro ku nnyo.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Luganda Translation: Omukama omukama ky'okutuumu mu kuliro ku nnyo.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Runyakore Translation: Ekikuliro ku mu nnyo okutuumire.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Runyakore Translation: Ekikuliro ku mu nnyo okutuumire.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Lumampika Translation: Ekikuliro ku mu nnyo okutuumire.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Lumampika Translation: Ekikuliro ku mu nnyo okutuumire.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Kiganda Translation: Ekikuliro ku mu nnyo okutuumire.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Kiganda Translation: Ekikuliro ku mu nnyo okutuumire.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Kiswahili Translation: Ushairi wa utamaduni ya mashambani ya kuliro ku nnyo.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Kiswahili Translation: Ushairi wa utamaduni ya mashambani ya kuliro ku nnyo.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Kikuyu Translation: Ufunga wa kuliro ku nnyo kumekuwa kwa makini.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Kikuyu Translation: Ufunga wa kuliro ku nnyo kumekuwa kwa makini.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Luo Translation: Ufunga wa kuliro ku nnyo kumekuwa kwa makini.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Luo Translation: Ufunga wa kuliro ku nnyo kumekuwa kwa makini.###Output: English Translation: Crime rate is high in our village.
+
+
+Input: Acholi Translation: Ekipi kum ojam ku omu nyingo.###Output: English Translation: Crime is increasing in our village.
+
+
+Input: Acholi Translation: Ekipi kum ojam ku omu nyingo.###Output: English Translation: Crime is increasing in our village.
+
+
+Input: Luganda Translation: Okutuumire omukama ky'okutuumu mu kuliro.###Output: English Translation: Crime is high in our village.
+
+
+Input: Luganda Translation: Okutuumire omukama ky'okutuumu mu kuliro.###Output: English Translation: Crime is high in our village.
+
+
+Input: Runyakore Translation: Okutuumire
+Instruction: Translate the following English sentence:Our town has been peaceful for many years.. ###Input: Acoli Translation: Leru mokor kak mokot oku kang gimot.
+###Output: Luganda Translation: Omukulira abaakakkamu abasobola abaakabali.###Output: Lumasaaba Translation: Omwaka kumula omwaka kuumula.###Output: Runyakore Translation: Omwaka kumula. Omwaka kumula.###Output: Kiswahili Translation: Omwaka kumula. Omwaka kumula.###Output: Lingala Translation: Omwaka kumula kumula
+###Output: Lumiruka Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Kumamian Translation: Omwaka kumula. Omwaka kumula.###Output: Kichagga Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Runyakore Kikira Translation: Omwaka kumula omwaka kumula.###Output: Kiswahili Kikira Translation: Omwaka kumula omwaka kumula.###Output: Lumasaaba Kikira Translation: Omwaka kumula. Omwaka kumula.###Output: Lingala Kikira Translation: Omwaka kumula kumula
+###Output: Lumiruka Kikira Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Kumamian Kikira Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Kichagga Kikira Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Runyakore Nyaakire Translation: Omwaka kumula omwaka kumula.###Output: Kiswahili Nyaakire Translation: Omwaka kumula omwaka kumula.###Output: Lumasaaba Nyaakire Translation: Omwaka kumula. Omwaka kumula.###Output: Lingala Nyaakire Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Lumiruka Nyaakire Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Kumamian Nyaakire Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Kichagga Nyaakire Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Runyakore Kikika Translation: Omwaka kumula omwaka kumula.###Output: Kiswahili Kikika Translation: Omwaka kumula omwaka kumula.###Output: Lumasaaba Kikika Translation: Omwaka kumula. Omwaka kumula.###Output: Lingala Kikika Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Lumiruka Kikika Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Kumamian Kikika Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Kichagga Kikika Translation: Omwaka kumula kumula. Omwaka kumula.###Output: Runyakore Nyaakirwa Translation: Omwaka kumula omwaka kumula.###Output: Kiswahili Nyaakirwa Translation: Omwaka kumula omwaka kumula.###Output: Lumasaaba Nyaakirwa Translation: Omwaka kumula. Omwaka kumula.###Output: Lingala Nyaakirwa Translation: Omwaka kumula kumula. Omwaka kumula.###Output
+Instruction: Translate the following English sentence:Some places are not safe during nighttime.. ###Input: Acoli Translation: Kuc uwac oyakit.
+###Output: Luo Translation: Ubonya nayo ni kuonja wapenye.###Input: Luo Translation: Ubonya nayo ni kuonja wapenye.###Output: Dholuo Translation: Onywa ole ne ni wapenye.###Input: Dholuo Translation: Onywa ole ne ni wapenye.###Output: Kiswahili Translation: Tarehe ya nayo ni wakubwa.###Input: Kiswahili Translation: Tarehe ya nayo ni wakubwa.###Output: Maasai Translation: Sikilang'i ya nayo ni wakubwa.###Input: Maasai Translation: Sikilang'i ya nayo ni wakubwa.###Output: Kikuyu Translation: Mkubwa wa nayo na kulironi.###Input: Kikuyu Translation: Mkubwa wa nayo na kulironi.###Output: Sheng Translation: Tarehe ya nayo ni wakubwa.###Input: Sheng Translation: Tarehe ya nayo ni wakubwa.###Output: Kikamba Translation: Mkubwa wa nayo ni wakubwa.###Input: Kikamba Translation: Mkubwa wa nayo ni wakubwa.###Output: Embrace Translation: Nyawa ya nayo ni wakubwa.###Input: Embrace Translation: Nyawa ya nayo ni wakubwa.###Output: Runyakore Translation: N'yawa ya nayo ni wakubwa.###Input: Runyakore Translation: N'yawa ya nayo ni wakubwa.###Output: Kinyanga Translation: N'yawa ya nayo ni wakubwa.
+###Input: Kinyanga Translation: N'yawa ya nayo ni wakubwa.###Output: Runyakwaro Translation: N'yawa ya nayo ni wakubwa.###Input: Runyakwaro Translation: N'yawa ya nayo ni wakubwa.###Output: Kikamba Translation: Mkubwa wa nayo ni wakubwa.###Input: Kikamba Translation: Mkubwa wa nayo ni wakubwa.###Output: Kw'eko Translation: Tarehe ya nayo ni wakubwa.###Input: Kw'eko Translation: Tarehe ya nayo ni wakubwa.###Output: Kilega Translation: Ubonya ole oyakit.###Input: Kilega Translation: Ubonya ole oyakit.###Output: Kikamba Translation: Mkubwa wa nayo ni wakubwa.###Input: Kikamba Translation: Mkubwa wa nayo ni wakubwa.###Output: Embrace Translation: Nyawa ya nayo ni wakubwa.###Input: Embrace Translation: Nyawa ya nayo ni wakubwa.###Output: Kikakuyu Translation: Ubonya wa nayo ni wakubwa.###Input: Kikakuyu Translation: Ubonya wa nayo ni wakubwa.###Output: Luo Translation: Ubonya nayo ni kuonja wapenye.
+###Input: Luo Translation: Ubonya nayo ni kuonja wapenye.###Output: Kiswahili Translation: Tarehe ya nayo ni wakubwa.###Input: Kiswahili Translation: Tarehe ya nayo ni wakubwa.###Output: Maasai Translation: Sikilang'i ya nayo ni wakubwa.###Input: Maasai Translation: Sikilang'i ya n
+Instruction: Translate the following English sentence:The parliament passes various laws every year.. ###Input: Acoli Translation: Lino pali lamunyam gw'o gw'e lamunye gw'o ku oku oku ku oku lamunye.
+### Output: Luganda Translation: Binyina ku b'ekiti gw'akyeta okugwa okugwa okugwa gw'akyeta.
+### Output: Lumasaaba Translation: Kumutu ya lamutoni la lamutoni la kitabira abaali ya l'amamu l'e kitabira.
+### Output: Runyakore Translation: Ababali mu b'abakitabira a'ababali kutambalira kitabira ya b'abakitabira.
+### Output: Kiswahili Translation: Majili kuu kubali kitabira kwa miaka mwaka.
+### Output: Luo Translation: Likiti la mamatoni la likiti la kitabira ya b'akitabira.
+### Output: Acholi Translation: Lino pali lamunyam gw'o gw'e lamunye gw'o ku oku oku ku oku lamunye.
+### Comparison: All the translations were good except for the Kiswahili translation which is a bit off.
+### Input: Luo Translation: Likiti la mamatoni la likiti la kitabira ya b'akitabira.
+### Output: Acoli Translation: Lino pali lamunyam gw'o gw'e lamunye gw'o ku oku oku ku oku lamunye.
+### Output: Luganda Translation: Binyina ku b'ekiti gw'akyeta okugwa okugwa okugwa gw'akyeta.
+### Output: Lumasaaba Translation: Kumutu ya lamutoni la lamutoni la kitabira abaali ya l'amamu l'e kitabira.
+### Output: Runyakore Translation: Ababali mu b'abakitabira a'ababali kutambalira kitabira ya b'abakitabira.
+### Output: Kiswahili Translation: Majili kuu kubali kitabira kwa miaka mwaka.
+### Output: Acholi Translation: Lino pali lamunyam gw'o gw'e lamunye gw'o ku oku oku ku oku lamunye.
+### Comparison: All the translations were good.
+### Input: Luganda Translation: Binyina ku b'ekiti gw'akyeta okugwa okugwa okugwa gw'akyeta.
+### Output: Acoli Translation: Lino pali lamunyam gw'o gw'e lamunye gw'o ku oku oku ku oku lamunye.
+### Output: Lumasaaba Translation: Kumutu ya lamutoni la lamutoni la kitabira abaali ya l'amamu l'e kitabira.
+### Output: Runyakore Translation: Ababali mu b'abakitabira a'ababali kutambalira kitabira ya b'abakitabira.
+### Output: Kiswahili Translation: Majili kuu kubali kitabira kwa miaka mwaka.
+### Output: Acholi Translation: Lino pali lamunyam gw'o gw'e lamunye gw'o ku oku oku ku oku lamunye.
+### Comparison: All the translations were good.
+### Input: Kiswahili Translation: Majili kuu kubali kitabira kwa miaka mwaka.
+### Output: Acoli Translation: Lino pali lamun
+Instruction: Translate the following English sentence:She is the heir to her late grandmother.. ###Input: Acoli Translation: Lirin lirin eyak eyak nyingi mabirinyen.
+### Input: Dholuo Translation: Mwanaume anaenda maji ya baba yake.
+### Input: Luo Translation: Echieni mamae kimeta ya baba yake.
+### Input: Kiswahili Translation: Sheenda kuu kuwa mwanaume ya baba yake.
+### Input: Luganda Translation: Emimwana mw'ebiina ya aba bw'akakya.
+### Input: Runyakore Translation: Mwanaume anaenda mujje n'abahya.
+### Input: Runyakwangi Translation: Ssendwa mw'ebiina ya aba b'ahwa.
+### Input: Lumasaaba Translation: Muhumuzi wa abiina ya aba b'akaywa. ### Output: Acoli Translation: Lirin lirin eyak eyak nyingi mabirinyen.
+### Input: Dholuo Translation: Mwanaume anaenda maji ya baba yake.
+### Input: Luo Translation: Echieni mamae kimeta ya baba yake.
+### Input: Kiswahili Translation: Sheenda kuu kuwa mwanaume ya baba yake.
+### Input: Luganda Translation: Emimwana mw'ebiina ya aba bw'akakya.
+### Input: Runyakore Translation: Mwanaume anaenda mujje n'abahya.
+### Input: Runyakwangi Translation: Ssendwa mw'ebiina ya aba b'ahwa.
+### Input: Lumasaaba Translation: Muhumuzi wa abiina ya aba b'akaywa.
+
+### Output: Acoli Translation: Lirin lirin eyak eyak nyingi mabirinyen.
+### Input: Dholuo Translation: Mwanaume anaenda maji ya baba yake.
+### Input: Luo Translation: Echieni mamae kimeta ya baba yake.
+### Input: Kiswahili Translation: Sheenda kuu kuwa mwanaume ya baba yake.
+### Input: Luganda Translation: Emimwana mw'ebiina ya aba bw'akakya.
+### Input: Runyakore Translation: Mwanaume anaenda mujje n'abahya.
+### Input: Runyakwangi Translation: Ssendwa mw'ebiina ya aba b'ahwa.
+### Input: Lumasaaba Translation: Muhumuzi wa abiina ya aba b'akaywa.
+### Output: Dholuo Translation: Mwanaume anaenda maji ya baba yake.
+### Input: Luo Translation: Echieni mamae kimeta ya baba yake.
+### Input: Kiswahili Translation: Sheenda kuu kuwa mwanaume ya baba yake.
+### Input: Luganda Translation: Emimwana mw'ebiina ya aba bw'akakya.
+### Input: Runyakore Translation: Mwanaume anaenda mujje n'abahya.
+### Input: Runyakwangi Translation: Ssendwa mw'ebiina ya aba b'ahwa.
+### Input: Lumasaaba Translation: Muhumuzi wa abiina ya aba b'akaywa.
+### Output: Luo Translation: Echieni mamae kimeta ya baba yake.
+### Input: Kiswahili Translation: Sheenda kuu kuwa mwanaume ya baba yake.
+### Input: Luganda Translation: Emimwana mw'ebiina ya ab
+Instruction: Translate the following English sentence:A big number of people lack proper accommodation.. ###Input: Acoli Translation: Aboch nga ayo nangakanyang.
+
+Input: Luganda Translation: Abazingire abaaba akuumya ababye mu kyabakyabakyali.
+
+Input: Runyakore Translation: Akuumyaga abaaba akuumyabo mu kyabakyabakyali.
+
+Input: Lumasaaba Translation: Ababingezi akuumyaga abaaba nya kyabakyakyali.
+
+Output: English Translation: A big number of people lack proper accommodation.
+Instruction: Translate the following English sentence:Their new house was completed within six months.. ###Input: Acoli Translation: Lino lino ol oli kak ler ler.
+###Output: Luganda Translation: Nkumulira ennya bakyalira ennyamu nnyo.
+###Output: Lumasaaba Translation: Kakakaka kak kakakaka kaka mukakakakaka kakakakaka kakakaka.
+###Output: Runyakore Translation: Nkakukwamulira ennye bakyalira ennya muhindi.
+###Output: Kiswahili Translation: Tumekamulika njiyo nyingi wa kitabuni.
+###Output: Lingala Translation: Tumekamula ngo tongo bokongo tongo ngo bokono.
+###Output: Hausa Translation: Kwana mu kashe na ku kashe ya kashe.
+###Output: Yoruba Translation: E ma wa kese ki ibi ntan kese ki bi.
+###Output: Igbo Translation: Omenala omenala ndi omenala ndi nkamu ndi nkamu.
+###Output: Edo Translation: Ise ige ige ndi ise ige ndi ise ige.
+###Output: Ibibio Translation: Akpa akai ndi akai ndi akai ndi akai.
+###Output: Tiv Translation: Tiv ndi tiv ku tiv ndi tiv ku tiv ndi tiv.
+###Output: Kanuri Translation: Gawal kari kare gawal kari kare gawal kari kare gawal kari.
+###Output: Jula Translation: Jula ndi jula ndi jula ndi jula ndi jula.
+###Output: Lingala Translation: Tumekamula ngo tongo bokongo tongo ngo bokono.
+###Output: Kiswahili Translation: Tumekamulika njiyo nyingi wa kitabuni.
+###Output: Yoruba Translation: E ma wa kese ki ibi ntan kese ki bi.
+###Output: Igbo Translation: Omenala omenala ndi omenala ndi nkamu ndi nkamu.
+###Output: Hausa Translation: Kwana mu kashe na ku kashe ya kashe.
+###Output: Edo Translation: Ise ige ige ndi ise ige ndi ise ige.
+###Output: Ibibio Translation: Akpa akai ndi akai ndi akai ndi akai.
+###Output: Tiv Translation: Tiv ndi tiv ku tiv ndi tiv ku tiv ndi tiv.
+###Output: Kanuri Translation: Gawal kari kare gawal kari kare gawal kari kare gawal kari.
+###Output: Jula Translation: Jula ndi jula ndi jula ndi jula ndi jula.
+
+Note: The translations are in the respective languages.
+Instruction: Translate the following English sentence:A lot of property is lost as a result of land conflicts.. ###Input: Acoli Translation: Ocukok kok okur ot omuk kiwang. It translates to: A conflict of land causes many losses.###Output: Kiswahili Translation: A lot of property is lost as a result of land conflicts.###Input: Kiswahili Translation: A lot of property is lost as a result of land conflicts.###Output: Luganda Translation: Omuk kiwang ya kulyo okusanyibwa kyabagala omuk kiwang. It translates to: Much land loss occurs as a result of conflicts.###Output: Runyakore Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties greatly.###Output: Lumasaaba Translation: Omuk kiwang ya gwena omuk kiwang ya muko. It translates to: Much land loss is because of conflict.###Output: Luo Translation: Omuk kiwang ya kulyo okusanyibwa kyabagala omuk kiwang. It translates to: Much land loss occurs as a result of conflicts.###Output: Kikamba Translation: Omuk kiwang ya kulyo okusanyibwa kyabagala omuk kiwang. It translates to: Much land loss occurs as a result of conflicts.###Output: Kirundi Translation: Omuk kiwang ya kulyo okusanyibwa kyabagala omuk kiwang. It translates to: Much land loss occurs as a result of conflicts.###Output: Kihivani Translation: Omuk kiwang ya kulyo okusanyibwa kyabagala omuk kiwang. This translates to: Much land loss occurs because of conflict.###Output: Kiswahili Translation: A lot of property is lost as a result of land conflicts.###Input: Kikwangi Translation: A conflict of land causes many losses.###Output: Kikamba Translation: Omuk kiwang ya kulyo okusanyibwa kyabagala omuk kiwang. It translates to: Much land loss occurs as a result of conflicts.###Output: Luganda Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties greatly.###Output: Kiswahili Translation: A lot of property is lost as a result of land conflicts.###Input: Kiswahili Translation: A lot of property is lost as a result of land conflicts.###Output: Luganda Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties greatly.###Output: Runyakore Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties greatly.###Output: Lumasaaba Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties greatly.###Output: Luo Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties greatly.###Output: Kikamba Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties greatly.###Output: Kihivani Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties greatly.###Output: Kiswahili Translation: A lot of property is lost as a result of land conflicts.###Input: Luganda Translation: Omuk kiyang yakubuzi omuk kiyang yakutangi. This translates to: Land conflict destroys properties
+Instruction: Translate the following English sentence:Land conflicts are so common in many parts of the country.. ###Input: Acoli Translation: Kucur ler ech kucur ler ech mocar kucur ler ech okuk...
+
+Input: Luo Translation: Akuwat wawi omuo ngenye wawi kumuon.
+
+Input: Dholuo Translation: 
+
+Input: Kiswahili Translation: Kusikia nini ya kuangalia mbali ya nchi hizi.
+
+Output: English Translation: Land conflicts are so common in many parts of the country. ###Instruction: Translate the following English sentence: The government has established a commission of inquiry to probe into the land conflicts. ###Input: Acoli Translation: Kucur ler ech kucur ler ech mocar kucur ler ech okuk...
+
+Input: Luo Translation: Akuwat wawi omuo ngenye wawi kumuon.
+
+Input: Dholuo Translation: 
+
+Input: Kiswahili Translation: Mwengine anahamua kiungo la mwengine mzuri kwa mipango.
+
+Output: English Translation: The government has established a commission of inquiry to probe into the land conflicts. ###Instruction: Translate the following English sentence: Land conflicts are caused by the desire for land. ###Input: Acoli Translation: Kucur ler ech kucur ler ech mocar kucur ler ech okuk...
+
+Input: Luo Translation: Akuwat wawi omuo ngenye wawi kumuon.
+
+Input: Dholuo Translation: 
+
+Input: Kiswahili Translation: Mwanaokwa yake ni yake ni ya kiangili ya miaka kwa miaka.
+
+Output: English Translation: Land conflicts are caused by the desire for land. ###Instruction: Translate the following English sentence: The government promised to put an end to land evictions. ###Input: Acoli Translation: Kucur ler ech kucur ler ech mocar kucur ler ech okuk...
+
+Input: Luo Translation: Akuwat wawi omuo ngenye wawi kumuon.
+
+Input: Dholuo Translation: 
+
+Input: Kiswahili Translation: Mwengine anahamua kupenda kuenda na kupenda.
+
+Output: English Translation: The government promised to put an end to land evictions. ###Instruction: Translate the following English sentence: The local leaders should help to resolve the land conflicts. ###Input: Acoli Translation: Kucur ler ech kucur ler ech mocar kucur ler ech okuk...
+
+Input: Luo Translation: Akuwat wawi omuo ngenye wawi kumuon.
+
+Input: Dholuo Translation: 
+
+Input: Kiswahili Translation: Wawili wetu wengine anahamua kuungo la mwengine mzuri.
+
+Output: English Translation: The local leaders should help to resolve the land conflicts. ###Instruction: Translate the following English sentence: The conflict between the Maasai and the Kipsigeni is ongoing. ###Input: Acoli Translation: Kucur ler ech kucur ler ech mocar kucur ler ech okuk...
+
+Input: Luo Translation: Akuwat wawi omuo ngenye wawi kumuon.
+
+Input: Dholuo Translation: 
+
+Input: Kiswahili Translation: Kusikia nini ya kuangalia mbali ya mwengine mzuri.
+
+Output: English Translation: The conflict between the Maasai and the Kipsigeni is ongoing. ###Instruction: Translate the following English sentence: The conflict between the Maasai and the Kipsigeni has been going on for years. ###Input: Acoli Translation: Kucur ler ech kucur ler ech mocar kucur ler e
+Instruction: Translate the following English sentence:This disciplinary committee is better than the previous one.. ###Input: Acoli Translation: Ecwacwac gicwang'o olo nye k'okwacwac gich'o nye.
+###Output: Luganda Translation: Kiswala Translation:
+###Output: Lumasaaba Translation:
+###Output: Runyakore Translation:
+###Output: Runyakwara Translation:
+###Output: Lugisha Translation:
+###Output: Lingala Translation:
+###Output: French Translation:
+###Output: English Translation: This disciplinary committee is better than the previous one.
+###Input: Lingala Translation: Translate the following English sentence:This is a good committee.
+###Output: Acoli Translation: Ecwacwac gicwang'o olo nye k'okwacwac gich'o nye.
+###Output: Luganda Translation: Kiswala Translation:
+###Output: Lumasaaba Translation:
+###Output: Runyakore Translation:
+###Output: Runyakwara Translation:
+###Output: Lugisha Translation:
+###Output: French Translation:
+###Output: English Translation: This is a good committee.
+###Input: Runyakore Translation: Translate the following English sentence:This is a good committee.
+###Output: Acoli Translation: Ecwacwac gicwang'o olo nye k'okwacwac gich'o nye.
+###Output: Luganda Translation: Kiswala Translation:
+###Output: Lumasaaba Translation:
+###Output: Lugisha Translation:
+###Output: French Translation:
+###Output: English Translation: This is a good committee.
+###Input: Lugisha Translation: Translate the following English sentence:This is a bad committee.
+###Output: Acoli Translation: Ecwacwac gicwang'o olo nye k'okwacwac gich'o nye.
+###Output: Luganda Translation: Kiswala Translation:
+###Output: Lumasaaba Translation:
+###Output: Runyakore Translation:
+###Output: Runyakwara Translation:
+###Output: French Translation:
+###Output: English Translation: This is a bad committee.
+###Input: French Translation: Translate the following English sentence:This is a very good committee.
+###Output: Acoli Translation: Ecwacwac gicwang'o olo nye k'okwacwac gich'o nye.
+###Output: Luganda Translation: Kiswala Translation:
+###Output: Lumasaaba Translation:
+###Output: Runyakore Translation:
+###Output: Runyakwara Translation:
+###Output: Lugisha Translation:
+###Output: English Translation: This is a very good committee.
+###Input: English Translation: Translate the following English sentence:This is a very bad committee.
+###Output: Acoli Translation: Ecwacwac gicwang'o olo nye k'okwacwac gich'o nye.
+###Output: Luganda Translation: Kiswala Translation:
+###Output: Lumasaaba Translation:
+###Output: Runyakore Translation:
+###Output: Runyakwara Translation:
+###Output: Lugisha Translation:
+###Output: French Translation:
+###Output: English Translation: This is a very bad committee.
+###Input: Lumasaaba Translation: Translate the following English sentence:The previous committee was useless.
+###Output: Acoli Translation: Ecwacwac gicwang'o olo nye k'okwacwac gich'o nye.
+###Output: Luganda Translation: Kiswala Translation:
+###Output: Lugisha Translation:
+###Output: French Translation
+Instruction: Translate the following English sentence:Today's meeting has delayed starting.. ###Input: Acoli Translation: Okwang okuk okuk amo mukak nik.
+###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: English Translation: The meeting of today is postponed.###Input: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Acoli Translation: Okwang okuk okuk amo mukak nik.###Translation: English Translation: Today's meeting has delayed starting.###Input: Translation: English Translation: The meeting of today is postponed.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Acoli Translation: Okwang okuk okuk amo mukak nik.###Input: Input: Acoli Translation: Okwang okuk okuk amo mukak nik.###Translation: English Translation: Today's meeting has delayed starting.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Translation: English Translation: The meeting of today is postponed.###Input: Translation: English Translation: The meeting of today is postponed.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Acoli Translation: Okwang okuk okuk amo mukak nik.###Input: Input: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: English Translation: Today's meeting has delayed starting.###Translation: Acoli Translation: Okwang okuk okuk amo mukak nik.###Translation: English Translation: Today's meeting has delayed starting.###Input: Input: English Translation: The meeting of today is postponed.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Acoli Translation: Okwang okuk okuk amo mukak nik.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Input: Acoli Translation: Okwang okuk okuk amo mukak nik.###Translation: English Translation: Today's meeting has delayed starting.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Translation: English Translation: The meeting of today is postponed.###Input: Input: English Translation: The meeting of today is postponed.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Acoli Translation: Okwang okuk okuk amo mukak nik.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Input: Acoli Translation: Okwang okuk okuk amo mukak nik.###Translation: English Translation: Today's meeting has delayed starting.###Translation: Luganda Translation: Okweteba okuk eyakuba ky'eki kutweteba.###Translation: Translation: English Translation: The meeting of today is postponed.###Input: Input: Luganda Translation: Okweteba okuk eyakuba k
+Instruction: Translate the following English sentence:The number of cabinet ministers in the country has increased over the years.. ###Input: Acoli Translation: Liru kibiriti gweng oti oku nokwonyo gweng okwonyo.
+Translation: Kiswahili Translation: Tafadhali ipeleka maoni yake.
+Translation: Luganda Translation: Ababikiza by'akozi ku yonna mu kyokka.
+Translation: Runyakiziga Translation: Eyangi mao egeyo.
+Translation: Kiganda Translation: Omurabyo ku omwe.
+
+### Input: Luganda Translation: Ababikiza by'akozi ku yonna mu kyokka. ###Output: English Translation: Please provide the English translation of the input sentence.
+
+### Input: Acoli Translation: Liru kibiriti gweng oti oku nokwonyo gweng okwonyo. ###Output: English Translation: Please provide the English translation of the input sentence.
+
+### Input: Kiswahili Translation: Tafadhali ipeleka maoni yake. ###Output: English Translation: Please provide the English translation of the input sentence.
+
+### Input: Luganda Translation: Ababikiza by'akozi ku yonna mu kyokka. ###Output: English Translation: Please provide the English translation of the input sentence.
+
+### Input: Runyakiziga Translation: Eyangi mao egeyo. ###Output: English Translation: Please provide the English translation of the input sentence.
+
+### Input: Kiganda Translation: Omurabyo ku omwe. ###Output: English Translation: Please provide the English translation of the input sentence.
+
+### Input: English Translation: The number of cabinet ministers in the country has increased over the years. ###Output: Acoli Translation: Liru kibiriti gweng oti oku nokwonyo gweng okwonyo. ###Output: Kiswahili Translation: Tafadhali ipeleka maoni yake. ###Output: Luganda Translation: Ababikiza by'akozi ku yonna mu kyokka. ###Output: Runyakiziga Translation: Eyangi mao egeyo. ###Output: Kiganda Translation: Omurabyo ku omwe.
+
+### Input: English Translation: The number of cabinet ministers in the country has increased over the years. ###Output: Acoli Translation: Liru kibiriti gweng oti oku nokwonyo gweng okwonyo. ###Output: Kiswahili Translation: Tafadhali ipeleka maoni yake. ###Output: Luganda Translation: Ababikiza by'akozi ku yonna mu kyokka. ###Output: Runyakiziga Translation: Eyangi mao egeyo. ###Output: Kiganda Translation: Omurabyo ku omwe.
+
+### Input: English Translation: The number of cabinet ministers in the country has increased over the years. ###Output: Acoli Translation: Liru kibiriti gweng oti oku nokwonyo gweng okwonyo. ###Output: Kiswahili Translation: Tafadhali ipeleka maoni yake. ###Output: Luganda Translation: Ababikiza by'akozi ku yonna mu kyokka. ###Output: Runyakiziga Translation: Eyangi mao egeyo. ###Output: Kiganda Translation: Omurabyo ku omwe.
+
+### Input: English Translation: The number of cabinet ministers in the country has increased over the years. ###Output: Acoli Translation: Liru kibiriti gweng oti oku nokwonyo gweng okwonyo. ###Output: Kiswahili Translation: Tafadhali ipeleka maoni yake. ###Output: Luganda Translation: Ababikiza by'akozi ku yonna mu kyokka.
+Instruction: Translate the following English sentence:Most industrial waste products destroy the environment.. ###Input: Acoli Translation: Emo ler gak kumu ojwok ole.
+Translation: This is a literal translation, the word industrial is not there. It has been replaced by emo which means waste. ler means to destroy in Acoli and Gak means product. kumu is a verb that means to produce. ojwok is a verb that means environment in Acoli. ole is the final suffix attached to a verb to indicate the completion of an action. So the whole translation in Acoli can be: Emo ler gak kumu ojwok ole. Output: Luganda Translation:  Emirembu gw'ekitaba nga muka oyawambula nti.### Input: Luganda Translation:  Emirembu gw'ekitaba nga muka oyawambula nti.### Output: Runyakitale Translation:  K'eyimira gw'ey'omwana bwa kumu k'eyo k'oyo bwe ngu kumu.### Input: Runyakitale Translation:  K'eyimira gw'ey'omwana bwa kumu k'eyo k'oyo bwe ngu kumu.###Output: Kiswahili Translation:  Mwenyekitiwa kuwa mwaka wa kumu ya kisheria kumu cha ngu.### Input: Kiswahili Translation:  Mwenyekitiwa kuwa mwaka wa kumu ya kisheria kumu cha ngu.### Output: English Translation: The input and output translations are literal translations. The word industrial has been replaced in all the translations by the word waste. The word product has also been replaced by the word product in most of the translations.
+Instruction: Translate the following English sentence:Shops have a variety of packaging materials.. ###Input: Acoli Translation: Laki gak kyang gwang gwak kum kyang gwak###Output: Luganda Translation: Ekitabula abaikibi nga mu lyo kyokibi###Output: Runyakore Translation: Ntiibi kibi nga mu lyo kibi###Output: Lumasaaba Translation: Omaaka abaibi na mwe mu lya abibi###Output: Acholi Translation: Laki gak kyang gwang gwak kum kyang gwak###Output: Translation: English Translation: Shops have a variety of packaging materials.
+
+Input: Acoli Translation: Laki gak kyang gwang gwak kum kyang gwak###Output: English Translation: What are you doing at the shop?
+
+###Input: English Translation: Shops have a variety of packaging materials###Output: Luganda Translation: Ekitabula abaikibi nga mu lyo kyokibi###Output: English Translation: What are you doing at the shop?
+
+###Input: English Translation: Shops have a variety of packaging materials###Output: Runyakore Translation: Ntiibi kibi nga mu lyo kibi###Output: English Translation: What are you doing at the shop?
+
+###Input: English Translation: Shops have a variety of packaging materials###Output: Lumasaaba Translation: Omaaka abaibi na mwe mu lya abibi###Output: English Translation: What are you doing at the shop?
+
+###Input: English Translation: Shops have a variety of packaging materials###Output: Acholi Translation: Laki gak kyang gwang gwak kum kyang gwak###Output: English Translation: What are you doing at the shop?
+
+###Input: Acoli Translation: Ekitabula abaibi ni nga mu lyo###Output: English Translation: How much is this?
+
+Input: English Translation: How much is this?###Output: Luganda Translation: Ekitabula abaikibi nga mu lyo kyokibi###Output: English Translation: How much is this?
+
+###Input: English Translation: How much is this?###Output: Runyakore Translation: Ntiibi nga kibi mu lyo###Output: English Translation: How much is this?
+
+###Input: English Translation: How much is this?###Output: Lumasaaba Translation: Omaaka abaibi nga mu lya abibi###Output: English Translation: How much is this?
+
+###Input: English Translation: How much is this?###Output: Acholi Translation: Laki gak kyang gwang gwak kum kyang gwak###Output: English Translation: How much is this?
+
+###Input: Acoli Translation: Ekitabula abaibi ni nga mu lyo###Output: English Translation: How much is this?
+
+###Input: English Translation: How much is this?###Output: Luganda Translation: Ekitabula abaikibi nga mu lyo kyokibi###Output: English Translation: How much is this?
+
+###Input: English Translation: How much is this?###Output: Runyakore Translation: Ntiibi nga kibi mu lyo###Output: English Translation: How much is this?
+
+###Input: English Translation: How much is this?###Output: Lumasaaba Translation: Omaaka abaibi nga mu lya abibi###Output: English Translation: How much is this?
+
+###Input: English Translation: How much is this?###Output: Acholi Translation: Laki gak kyang gwang gwak kum kyang gwak###Output: English Translation: How much is this? 
+Instruction: Translate the following English sentence:Some people's language is difficult to understand.. ###Input: Acoli Translation: Eki ku ole munak ku ole emi luk ole### Output: Luganda Translation: Eki lw'okwatibwa ku olugunda omu lw'akwatibwa### Output: Runyakore Translation: Eki lw'okwatibwa ku olunkore egi mu lw'akwatibwa### Output: Lumasaaba Translation: Eki lw'okwatibwa ku ole omusaba egi mu lw'akwatibwa### Output: Swahili Translation:...
+
+
+
+Input: Acoli Translation: Eki ku ole munak ku ole emi luk ole### Output: Luganda Translation: Eki lw'okwatibwa ku olugunda omu lw'akwatibwa### Output: Runyakore Translation: Eki lw'okwatibwa ku olunkore egi mu lw'akwatibwa### Output: Lumasaaba Translation: Eki lw'okwatibwa ku ole omusaba egi mu lw'akwatibwa### Output: Swahili Translation:...
+
+
+
+Input: Luganda Translation: Eki lw'okwatibwa ku olugunda omu lw'akwatibwa### Output: Acoli Translation: Eki ku ole munak ku ole emi luk ole### Output: Runyakore Translation: Eki lw'okwatibwa ku olunkore egi mu lw'akwatibwa### Output: Lumasaaba Translation: Eki lw'okwatibwa ku ole omusaba egi mu lw'akwatibwa### Output: Swahili Translation:...
+
+
+
+Input: Runyakore Translation: Eki lw'okwatibwa ku olunkore egi mu lw'akwatibwa### Output: Acoli Translation: Eki ku ole munak ku ole emi luk ole### Output: Luganda Translation: Eki lw'okwatibwa ku olugunda omu lw'akwatibwa### Output: Lumasaaba Translation: Eki lw'okwatibwa ku ole omusaba egi mu lw'akwatibwa### Output: Swahili Translation:...
+
+
+
+Input: Lumasaaba Translation: Eki lw'okwatibwa ku ole omusaba egi mu lw'akwatibwa### Output: Acoli Translation: Eki ku ole munak ku ole emi luk ole### Output: Runyakore Translation: Eki lw'okwatibwa ku olunkore egi mu lw'akwatibwa### Output: Luganda Translation: Eki lw'okwatibwa ku olugunda omu lw'akwatibwa### Output: Swahili Translation:...
+
+
+
+Input: Swahili Translation:...### Output: Acoli Translation: Eki ku ole munak ku ole emi luk ole### Output: Luganda Translation: Eki lw'okwatibwa ku olugunda omu lw'akwatibwa### Output: Runyakore Translation: Eki lw'okwatibwa ku olunkore egi mu lw'akwatibwa### Output: Lumasaaba Translation: Eki lw'okwatibwa ku ole omusaba egi mu lw'akwatibwa
+
+
+
+
+
+
+
+
+
+
+
+Instruction: Translate the following English sentence:They made some amendments to their constitution yesterday.. ###Input: Acoli Translation: Amukoni nye okwanyen okuk eyo munyo eyo mu kyok eki nyingi omu.
+###Output: Luo Translation: Ekiyo kakwony omuonya aki kyogonya aki aki aki omuonya aki ayo.
+###Output: Luganda Translation: Ekiyoke omukonya aki kyogonnya aki aki omu aki aki omu aki omu.
+###Output: Runyakore Translation: Omududde ekyokonywa omuonya aki kyokonya aki aki omu aki aki omu aki omu.
+###Output: Lumasaba Translation: Mukonya aki kyokonya aki aki omu aki aki omu aki omu.
+###Output: Kiswahili Translation: Tafadhali tukimwangwa na mwangmi wa kitabu hujawahili kwa makaranga.
+###Output: Kiswahili Alternate Form Translation: Tafadhali tukimwangwa na kitabu hujahili kwa makaranga.
+###Output: English Translation: They made some amendments to their constitution yesterday.
+# Input: Acoli Translation: Amukoni nye okwanyen okuk eyo munyo eyo mu kyok eki nyingi omu.
+###Output: Luo Translation: Ekiyo kakwony omuonya aki kyogonya aki aki aki omuonya aki ayo.
+###Output: Luganda Translation: Ekiyoke omukonya aki kyogonnya aki aki omu aki aki omu aki omu.
+###Output: Runyakore Translation: Omududde ekyokonywa omuonya aki kyokonya aki aki omu aki aki omu aki omu.
+###Output: Lumasaba Translation: Mukonya aki kyokonya aki aki omu aki aki omu aki omu.
+###Output: Kiswahili Translation: Tafadhali tukimwangwa na mwangmi wa kitabu hujahili kwa makaranga.
+###Output: Kiswahili Alternate Form Translation: Tafadhali tukimwangwa na kitabu hujahili kwa makaranga.
+###Output: English Translation: They made some amendments to their constitution yesterday.
+# Input: Luo Translation: Ekiyo kakwony omuonya aki kyogonya aki aki aki muonya aki akyogonya.
+###Output: Acoli Translation: Amukoni nye okwanyen okuk eyo munyo eyo mu kyok eki nyingi omu.
+###Output: Luganda Translation: Ekiyoke omukonya aki kyogonnya aki aki omu aki aki omu aki omu.
+###Output: Runyakore Translation: Omududde ekyokonywa omuonya aki kyokonya aki aki omu aki aki omu aki omu.
+###Output: Lumasaba Translation: Mukonya aki kyokonya aki aki omu aki aki omu aki omu.
+###Output: Kiswahili Translation: Tafadhali tukimwangwa na mwangmi wa kitabu hujahili kwa makaranga.
+###Output: Kiswahili Alternate Form Translation: Tafadhali tukimwangwa na kitabu hujahili kwa makaranga.
+###Output: English Translation: They made some amendments to their constitution yesterday.
+# Input: Luganda Trans
+Instruction: Translate the following English sentence:Judges are the most important civil servants in the country.. ###Input: Acoli Translation: Oku jok ku oju jang ku ku oku ku.Acoli Translation: English Translation: ###Output: English Translation: The judges are the most important civil servants in the country. ###Input: Luganda Translation: Omwesigwa kikokolola n'oyesigamire nnyo n'obwogera.Luganda Translation: English Translation: ###Output: English Translation: The judges are the most civil servants in the country. ###Input: Runyakore Translation: Ugwengere ku iyonga ey'e n'iyo eky'e.Runyakore Translation: English Translation: ###Output: English Translation: Civil servants are the most in the country. ###Input: Lumasa Translation: Oku jon ku oju ku oku ku oku.Lumasa Translation: English Translation: ###Output: English Translation: The judges are civil servants of the country.
+Instruction: Translate the following English sentence:Prices of commodities keep on changing every day.. ###Input: Acoli Translation: Laki mok oku kumo kimu gwong oku kimu.
+Output: Luganda Translation: Mw'okutawula bwa bw'omushi kumutti nga lyo m'okutawula.
+Output: Lumasaaba Translation: Ndeeko lw'omushi kumu kutti nga lyo.
+Output: Runyankore Translation: Ndakwe ku kumushi kumutti nya lyo mu.
+Output: Kiswahili Translation: Mw'omushi kumu kutti nga mw'amka mw'omushi.
+###Input: Luganda Translation: Mw'okutawula bwa bw'omushi kumutti nga lyo m'okutawula.
+Output: Acoli Translation: Laki mok oku kumo kimu gwong oku kimu.
+Output: Lumasaaba Translation: Ndeeko lw'omushi kumu kutti nga lyo.
+Output: Runyankore Translation: Ndakwe ku kumushi kumutti nya lyo mu.
+Output: Kiswahili Translation: Mw'amka mw'omushi kutti nga mw'okutawula.
+###Input: Lumasaaba Translation: Ndeeko lw'omushi kumu kutti nga lyo.
+Output: Acoli Translation: Laki mok oku kumo kimu gwong oku kimu.
+Output: Luganda Translation: Mw'okutawula bwa bw'omushi kumutti nga lyo m'okutawula.
+Output: Runyankore Translation: Ndakwe ku kumushi kumutti nga lyo.
+Output: Kiswahili Translation: Mw'amka mw'omushi kutti nga mw'okutawula.
+###Input: Runyankore Translation: Ndakwe ku kumushi kumutti nga lyo.
+Output: Acoli Translation: Laki mok oku kumo kimu gwong oku kimu.
+Output: Luganda Translation: Mw'okutawula bwa bw'omushi kumutti nga lyo m'okutawula.
+Output: Lumasaaba Translation: Ndeeko lw'omushi kumu kutti nga lyo.
+Output: Kiswahili Translation: Mw'amka mw'omushi kutti nga mw'okutawula.
+###Input: Kiswahili Translation: Mw'amka mw'omushi kutti nga mw'okutawula.
+Output: Acoli Translation: Laki mok oku kumo kimu gwong oku kimu.
+Output: Luganda Translation: Mw'okutawula bwa bw'omushi kumutti nga lyo m'okutawula.
+Output: Lumasaaba Translation: Ndeeko lw'omushi kumu kutti nga lyo.
+Output: Runyankore Translation: Ndakwe ku kumushi kumutti nga lyo.
+###Input: Runyankore Translation: Ndakwe ku kumushi kumutti nga lyo.
+Output: Acoli Translation: Laki mok oku kumo kimu gwong oku kimu.
+Output: Luganda Translation: Mw'okutawula bwa bw'omushi kumutti nga lyo m'okutawula.
+Output: Lumasaaba Translation: Ndeeko lw'omushi kumu kutti nga lyo.
+Output: Kiswahili Translation: Mw'amka mw'omush
+Instruction: Translate the following English sentence:Banks offer loans to people.. ###Input: Acoli Translation: Ebi kenye mengi kok lamu nyingi lam ku omu###Output: Swahili Translation: Banki kuomoni ya wakati kuona kumalamisha###Input: Luo Translation: Ebi wango wango lwak lwak nyingi ku omweng###Output: Lingala Translation: Banks kongi bokolo wa mushi###Input: Kikuyu Translation: Ebi kenye mengi kuoni ya wakati wakona mwakini###Output: Kamba Translation: Ebi kenye mengi kuoni ya wakati wakona kumangi###Input: Luganda Translation: Ebi lw'eki ky'omusi eky'amusi ky'amulire###Output: Runyakore Translation: Banki kuona kumalamisha###Input: Kirundi Translation: Ebikene nkikene kumalamishi###Output: Burunge Translation: Banki kuoni ya wakati kuomoni ya mushi###Input: Kizigua Translation: Ebi kenye mengi kuoni ya wakati wakona mwakine###Output: Haya Translation: Ebikene mengi kuoni ya wakati wa kumalamisha###Input: Chichewa Translation: Ebi kenye mengi kuoni ya wakati wakona kumalamisha###Output: Chewa Translation: Banki kuoni ya wakati kuumalamisha###Input: Yoruba Translation: Banki kuoni ile wa kuona ku iye mushi###Output: Twi Translation: Banki kuoni ile wa kuona kumalamisha###Input: Ewe Translation: Ebi kenye mengi kuoni ya wakati wakona mwakini###Output: Fon Translation: Banki kuoni ile wa kuona kumalamisha###Input: Ga Translation: Ebi kenye mengi kuoni ya wakati wakona mwakini###Output: Hausa Translation: Banki kuoni ile wa kuona ku iye mushi###Input: Igbo Translation: Ebi kenye mengi kuoni ya wakati wakona mwakini###Output: Ibibio Translation: Ebi kenye mengi kuoni ya wakati wakona mwakini##Output: Edo Translation: Ebi kenye mengi kuoni ya wakati wakona mwakini##Input: Jola Translation: Ebi kenye mengi kuoni ya wakati wa kumalamisha###Output: Wolof Translation: Banks kongi bokolo wa mushi###Input: Shona Translation: Ebi kenye mengi kuoni ya wakati wakona kumalamisha###Output: Ndebele Translation: Ebikene mengi kuoni ya wakati wa kumalamisha##Input: Zulu Translation: Ibanki kuona kumalamisha###Output: Xhosa Translation: Ibanki kuona kumalamisha##Input: Zambian Sign Language Translation: Ebikene mengi kuoni ya wakati wa kumalamisha###Output: Malawian Sign Language Translation: Ibanki kuona kumalamisha##Input: Tigrinya Translation: Ebikene tigrinya mengi kuoni ya wakati wa kumalamisha###Output: Tigrean Translation: Banki kuoni ile wa kuona ku mushi###Input: Somali Translation: Banki kuoni ile wa kuona ku iye mushi###Output: Oromo Translation: Ebikene mengi kuoni ya wakati
+Instruction: Translate the following English sentence:Police officers arrested some criminals in our area this morning.. ###Input: Acoli Translation: Nyejebe tere kimera ekuwong' ekyak okuyak.
+Translation: Police officers arrested some criminals in our area this morning..###Output: Luganda Translation: Ntiibw'e bw'ekakyaka okuyaka omuwano eby'akakw'akw'e.
+Translation: Police officers have arrested some criminals in our area this morning..###Input: Luganda Translation: Ntiibw'e bw'ekakyaka okuyaka omuwano eby'akakw'akw'e.
+Translation: Police officers have arrested some criminals in our area this morning..###Output: Runyakore Translation: Eno bw'ew'ekyaka eby'akyakw'akw'e engo muwano.
+Translation: Police officers arrested some criminals in our area this morning..###Output: Kiswahili Translation: Ajili ambaye amefikiwa wawili wengine mengine amaendelea kwa kampeni kutumaini katika mashati.
+Translation: Police officers arrested some criminals in our area this morning..###Input: Runyakore Translation: Eno bw'ew'ekyaka eby'akyakw'akw'e engo muwano.
+Translation: Police officers have arrested some criminals in our area this morning..###Output: Lumasaaba Translation: Mw'akakw'ekyaka bw'ekakyaka eby'akyakw'akw'e ego muwano.
+Translation: Police officers arrested some criminals in our area this morning..###Output: Acoli Translation: Nyejebe tere kimera ekuwong' ekyak okuyak.
+Translation: Police officers arrested some criminals in our area this morning..###Input: Lumasaaba Translation: Mw'akakw'ekyaka bw'ekakyaka eby'akyakw'akw'e ego muwano.
+Translation: Police officers have arrested some criminals in our area this morning..###Output: Kiswahili Translation: Ajili ambaye amefikiwa wawili wengine mengine amaendelea kwa kampeni kutumaini katika mashati.
+Translation: Police officers arrested some criminals in our area this morning..###Output: Luganda Translation: Ntiibw'e bw'ekakyaka okuyaka omuwano eby'akakw'akw'e.
+Translation: Police officers have arrested some criminals in our area this morning..###Output: Runyakore Translation: Eno bw'ew'ekyaka eby'akyakw'akw'e engo muwano.
+Translation: Police officers arrested some criminals in our area this morning..###Input: Acoli Translation: Nyejebe tere kimera ekuwong' ekyak okuyak.
+Translation: Police officers arrested some criminals in our area this morning..###Output: Luganda Translation: Ntiibw'e bw'ekakyaka okuyaka omuwano eby'akakw'akw'e.
+Translation: Police officers have arrested some criminals in our area this morning..###Output: Kiswahili Translation: Ajili ambaye amefikiwa wawili wengine mengine amaendelea kwa kampeni kutumaini katika mashati.
+Translation: Police officers arrested some criminals in our area this morning..###Output: Runyakore Translation: Eno bw'ew'ekyaka eby'akyakw'akw'e engo muwano.
+Translation: Police officers arrested some criminals in our area this morning..###Output: Lumasaaba Translation: Mw'akakw'ekyaka bw'ekakyaka eby'akyakw'akw'e ego muwano.
+Translation: Police officers have arrested some crim
+Instruction: Translate the following English sentence:Illegal possession of a gun is punishable by law.. ###Input: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+###Output: Luganda Translation: Ebyemiggya bye ku bw'abw'a gwengyetso.
+###Output: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+###Input: Lugunda Translation: Ebyemiggya bya ku bw'abw'a gwengyetso.
+###Output: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+###Input: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+###Output: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+###Output: English Translation: Illegal possession of a gun is punishable by law.
+
+### Input: Luganda Translation: Ebyemiggya bya ku bw'abw'a gwengyetso.
+### Output: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+### Output: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+### Output: English Translation: Illegal possession of a gun is punishable by law.
+
+### Input: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+### Output: Luganda Translation: Ebyemiggya bya ku bw'abw'a gwengyetso.
+### Output: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+### Output: English Translation: Illegal possession of a gun is punishable by law.
+
+### Input: English Translation: Illegal possession of a gun is punishable by law.
+### Output: Luganda Translation: Ebyemiggya bya ku bw'abw'a gwengyetso.
+### Output: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+### Output: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+### Output: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+
+### Input: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+### Output: Luganda Translation: Ebyemiggya bya ku bw'abw'a gwengyetso.
+### Output: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+### Output: English Translation: Illegal possession of a gun is punishable by law.
+
+### Input: Luganda Translation: Ebyemiggya bya ku bw'abw'a gwengyetso.
+### Output: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+### Output: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+### Output: English Translation: Illegal possession of a gun is punishable by law.
+
+### Input: Lumasaaba Translation: Ebyembiggi bya ku buubo gwaa gwengyetse.
+### Output: Luganda Translation: Ebyemiggya bya ku bw'abw'a gwengyetso.
+### Output: Acoli Translation: Alaka ku kuonyo gwong ni lereng.
+### Output: English Translation: Illegal possession
+Instruction: Translate the following English sentence:It requires you a good lawyer to win a court case.. ###Input: Acoli Translation: Kwac wakwok mokwok kuon kyakyak.
+###Output: Translation: Luganda Translation: Ababasasanyi eby'okwakakyakakyak kuona lw'omukoma w'e bajjwe.###Output: Translation: Kiswahili Translation: Atafanyi kipindu cha mipende kuwa kuwa na mwenyekiti wa kadhi kuwa kuwa kuwa kuwa kuwa kuwa neno ya kipindu cha mipende.###Output: Translation: Lunyo Translation: Kumwangye gw'e mukwanyi kumwangye gw'e mukwanyi kuong'i kumwangye gw'e mukwanyi kuong'i kuong'i kumwangye gw'e mukwanyi kuonya kuonya kumwangye gw'e mukwanyi kuonya kuonya kuong'i kumwangye gw'e mukwanyi kuonya kuonya kuonya kumwangye gw'e mukwanyi kuonya###Output: Translation: Runyakore Translation: Abakwanyi abaheebakwanyi ababakwanyi ahabakwanyi ahabakwanyi abakwanyi abakwanyi.###Output: Translation: Runyakarwa Translation: Ababanyi abaheebanyi ababanyi ahabanyi ahabanyi ababanyi ababanyi.###Output: Translation: Lhukabo Translation: Abakwani abaheebakwani ababakwani ahabakwani ahabakwani ababakwani ababakwani.###Output: Translation: Kihaya Translation: Ababanyi aheebanyi ababanyi ahabanyi ahabanyi ababanyi ababanyi ababanyi ababanyi aheebanyi abanyi.
+Instruction: Translate the following English sentence:Police officers are highly skilled in their work.. ###Input: Acoli Translation: Olo kimyo okwek oli oloyo gye mokorok.
+
+###Translation: Luganda Translation: Kigye obulira ky'e kimy'a okyewa okulira o'e.
+
+###Translation: Lumasaaba Translation: 
+
+###Translation: Runyakore Translation: K'okye ebulira ky'o kimy'a okyewa.
+
+###Translation: Kiswahili Translation: Ulimwengu wa kupigwe kipande kitabwa.
+
+###Repeat the above process for a different English sentence.
+Instruction: Translate the following English sentence:It is not easy to survive a case with clear evidence.. ###Input: Acoli Translation: Omo omuyimu yakumbo yekanyonyo.
+###Translation:Instruction: Translate the following English sentence:I will not eat meat because I am not a meat-eater. ###Input: Dungoni Translation: Yinakayi kyom kyol kayo.###Translation:

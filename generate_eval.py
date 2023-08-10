@@ -126,12 +126,12 @@ if __name__ == "__main__":
     
     output_list = []
     for index, row in df.iterrows():
-    print(row)
+        print(row)
         output_list.append(evaluate(row['instruction'], row['input']))
 
     df["output"] = pd.Series(output_list)
     
     translated_dict = df.to_dict('records')
 
-    with open(f"evaluation_{LORA_WEIGHTS.split("/")[1]}.json", 'w') as file:
+    with open(f"evaluation_translated.json", 'w') as file:
         json.dump(translated_dict, file)
